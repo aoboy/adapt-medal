@@ -1,0 +1,2191 @@
+267	ID:96	Rime started with address 96.0
+275	ID:96	MAC 60:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 96.
+283	ID:1	Rime started with address 1.0
+285	ID:96	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+288	ID:96	Starting 'example medal-adaptive'
+291	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 1.
+296	ID:33	Rime started with address 33.0
+301	ID:1	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+304	ID:1	Starting 'example medal-adaptive'
+304	ID:33	MAC 21:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 33.
+305	ID:31	Rime started with address 31.0
+313	ID:31	MAC 1f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 31.
+313	ID:48	Rime started with address 48.0
+314	ID:89	Rime started with address 89.0
+315	ID:33	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+317	ID:33	Starting 'example medal-adaptive'
+318	ID:6	Rime started with address 6.0
+321	ID:48	MAC 30:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 48.
+322	ID:89	MAC 59:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 89.
+323	ID:31	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+325	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 6.
+326	ID:31	Starting 'example medal-adaptive'
+331	ID:91	Rime started with address 91.0
+331	ID:48	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+332	ID:89	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+334	ID:48	Starting 'example medal-adaptive'
+335	ID:89	Starting 'example medal-adaptive'
+336	ID:6	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+338	ID:6	Starting 'example medal-adaptive'
+339	ID:91	MAC 5b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 91.
+341	ID:71	Rime started with address 71.0
+349	ID:56	Rime started with address 56.0
+349	ID:91	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+349	ID:71	MAC 47:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 71.
+352	ID:91	Starting 'example medal-adaptive'
+353	ID:47	Rime started with address 47.0
+357	ID:56	MAC 38:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 56.
+360	ID:71	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+360	ID:87	Rime started with address 87.0
+361	ID:47	MAC 2f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 47.
+362	ID:71	Starting 'example medal-adaptive'
+367	ID:56	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+368	ID:87	MAC 57:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 87.
+370	ID:56	Starting 'example medal-adaptive'
+371	ID:47	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+372	ID:2	Rime started with address 2.0
+374	ID:47	Starting 'example medal-adaptive'
+377	ID:105	Rime started with address 105.0
+379	ID:87	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+380	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 2.
+381	ID:87	Starting 'example medal-adaptive'
+385	ID:105	MAC 69:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 105.
+391	ID:2	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+393	ID:2	Starting 'example medal-adaptive'
+395	ID:7	Rime started with address 7.0
+396	ID:105	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+398	ID:105	Starting 'example medal-adaptive'
+403	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 7.
+414	ID:7	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+415	ID:54	Rime started with address 54.0
+416	ID:7	Starting 'example medal-adaptive'
+423	ID:54	MAC 36:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 54.
+428	ID:5	Rime started with address 5.0
+431	ID:12	Rime started with address 12.0
+432	ID:27	Rime started with address 27.0
+433	ID:54	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+436	ID:54	Starting 'example medal-adaptive'
+436	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 5.
+439	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 12.
+439	ID:22	Rime started with address 22.0
+440	ID:27	MAC 1b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 27.
+446	ID:5	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+447	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 22.
+449	ID:5	Starting 'example medal-adaptive'
+449	ID:12	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+451	ID:27	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+452	ID:12	Starting 'example medal-adaptive'
+453	ID:27	Starting 'example medal-adaptive'
+458	ID:22	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+460	ID:22	Starting 'example medal-adaptive'
+465	ID:81	Rime started with address 81.0
+467	ID:57	Rime started with address 57.0
+473	ID:81	MAC 51:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 81.
+476	ID:57	MAC 39:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 57.
+478	ID:102	Rime started with address 102.0
+479	ID:13	Rime started with address 13.0
+483	ID:81	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+486	ID:102	MAC 66:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 102.
+486	ID:57	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+486	ID:81	Starting 'example medal-adaptive'
+487	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 13.
+489	ID:57	Starting 'example medal-adaptive'
+492	ID:17	Rime started with address 17.0
+496	ID:102	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+498	ID:13	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+499	ID:102	Starting 'example medal-adaptive'
+500	ID:13	Starting 'example medal-adaptive'
+500	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 17.
+511	ID:17	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+513	ID:17	Starting 'example medal-adaptive'
+547	ID:86	Rime started with address 86.0
+548	ID:61	Rime started with address 61.0
+553	ID:100	Rime started with address 100.0
+555	ID:86	MAC 56:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 86.
+557	ID:61	MAC 3d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 61.
+561	ID:100	MAC 64:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 100.
+566	ID:86	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+567	ID:61	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+568	ID:86	Starting 'example medal-adaptive'
+570	ID:61	Starting 'example medal-adaptive'
+571	ID:100	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+574	ID:100	Starting 'example medal-adaptive'
+575	ID:72	Rime started with address 72.0
+575	ID:66	Rime started with address 66.0
+583	ID:72	MAC 48:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 72.
+584	ID:66	MAC 42:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 66.
+589	ID:68	Rime started with address 68.0
+594	ID:72	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+594	ID:66	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+596	ID:72	Starting 'example medal-adaptive'
+597	ID:66	Starting 'example medal-adaptive'
+597	ID:68	MAC 44:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 68.
+604	ID:98	Rime started with address 98.0
+604	ID:83	Rime started with address 83.0
+604	ID:59	Rime started with address 59.0
+608	ID:68	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+610	ID:68	Starting 'example medal-adaptive'
+612	ID:98	MAC 62:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 98.
+612	ID:83	MAC 53:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 83.
+612	ID:59	MAC 3b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 59.
+618	ID:88	Rime started with address 88.0
+623	ID:98	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+623	ID:83	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+623	ID:59	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+625	ID:98	Starting 'example medal-adaptive'
+625	ID:83	Starting 'example medal-adaptive'
+625	ID:59	Starting 'example medal-adaptive'
+626	ID:88	MAC 58:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 88.
+626	ID:74	Rime started with address 74.0
+628	ID:24	Rime started with address 24.0
+634	ID:74	MAC 4a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 74.
+636	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 24.
+636	ID:88	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+639	ID:88	Starting 'example medal-adaptive'
+639	ID:11	Rime started with address 11.0
+645	ID:74	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+646	ID:24	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+647	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 11.
+647	ID:74	Starting 'example medal-adaptive'
+648	ID:64	Rime started with address 64.0
+649	ID:24	Starting 'example medal-adaptive'
+650	ID:103	Rime started with address 103.0
+651	ID:44	Rime started with address 44.0
+657	ID:64	MAC 40:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 64.
+657	ID:11	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+658	ID:103	MAC 67:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 103.
+659	ID:44	MAC 2c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 44.
+660	ID:11	Starting 'example medal-adaptive'
+667	ID:64	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+669	ID:103	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+669	ID:37	Rime started with address 37.0
+670	ID:64	Starting 'example medal-adaptive'
+670	ID:44	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+671	ID:103	Starting 'example medal-adaptive'
+672	ID:44	Starting 'example medal-adaptive'
+677	ID:37	MAC 25:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 37.
+688	ID:37	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+690	ID:37	Starting 'example medal-adaptive'
+691	ID:101	Rime started with address 101.0
+692	ID:34	Rime started with address 34.0
+694	ID:43	Rime started with address 43.0
+696	ID:14	Rime started with address 14.0
+700	ID:101	MAC 65:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 101.
+700	ID:34	MAC 22:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 34.
+703	ID:43	MAC 2b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 43.
+704	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 14.
+710	ID:101	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+710	ID:34	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+713	ID:101	Starting 'example medal-adaptive'
+713	ID:34	Starting 'example medal-adaptive'
+713	ID:43	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+714	ID:14	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+716	ID:43	Starting 'example medal-adaptive'
+717	ID:14	Starting 'example medal-adaptive'
+722	ID:50	Rime started with address 50.0
+729	ID:69	Rime started with address 69.0
+730	ID:50	MAC 32:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 50.
+737	ID:69	MAC 45:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 69.
+741	ID:50	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+743	ID:50	Starting 'example medal-adaptive'
+747	ID:69	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+748	ID:39	Rime started with address 39.0
+749	ID:80	Rime started with address 80.0
+750	ID:69	Starting 'example medal-adaptive'
+753	ID:94	Rime started with address 94.0
+754	ID:29	Rime started with address 29.0
+755	ID:93	Rime started with address 93.0
+757	ID:39	MAC 27:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 39.
+757	ID:80	MAC 50:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 80.
+761	ID:94	MAC 5e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 94.
+762	ID:29	MAC 1d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 29.
+763	ID:93	MAC 5d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 93.
+763	ID:28	Rime started with address 28.0
+765	ID:26	Rime started with address 26.0
+767	ID:39	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+767	ID:80	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+769	ID:39	Starting 'example medal-adaptive'
+770	ID:80	Starting 'example medal-adaptive'
+771	ID:28	MAC 1c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 28.
+771	ID:94	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+772	ID:40	Rime started with address 40.0
+773	ID:29	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+773	ID:93	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+773	ID:26	MAC 1a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 26.
+774	ID:94	Starting 'example medal-adaptive'
+775	ID:29	Starting 'example medal-adaptive'
+775	ID:90	Rime started with address 90.0
+776	ID:93	Starting 'example medal-adaptive'
+780	ID:40	MAC 28:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 40.
+782	ID:28	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+783	ID:90	MAC 5a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 90.
+784	ID:26	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+784	ID:28	Starting 'example medal-adaptive'
+786	ID:26	Starting 'example medal-adaptive'
+789	ID:60	Rime started with address 60.0
+791	ID:40	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+793	ID:40	Starting 'example medal-adaptive'
+794	ID:90	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+796	ID:90	Starting 'example medal-adaptive'
+797	ID:60	MAC 3c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 60.
+808	ID:60	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+808	ID:46	Rime started with address 46.0
+809	ID:8	Rime started with address 8.0
+810	ID:60	Starting 'example medal-adaptive'
+816	ID:46	MAC 2e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 46.
+817	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 8.
+819	ID:78	Rime started with address 78.0
+827	ID:46	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+827	ID:78	MAC 4e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 78.
+828	ID:8	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+829	ID:46	Starting 'example medal-adaptive'
+830	ID:8	Starting 'example medal-adaptive'
+838	ID:78	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+840	ID:78	Starting 'example medal-adaptive'
+848	ID:55	Rime started with address 55.0
+856	ID:55	MAC 37:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 55.
+862	ID:95	Rime started with address 95.0
+864	ID:36	Rime started with address 36.0
+866	ID:55	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+869	ID:55	Starting 'example medal-adaptive'
+869	ID:92	Rime started with address 92.0
+870	ID:95	MAC 5f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 95.
+872	ID:36	MAC 24:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 36.
+877	ID:92	MAC 5c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 92.
+880	ID:97	Rime started with address 97.0
+881	ID:95	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+882	ID:36	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+883	ID:95	Starting 'example medal-adaptive'
+885	ID:36	Starting 'example medal-adaptive'
+888	ID:97	MAC 61:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 97.
+888	ID:92	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+890	ID:92	Starting 'example medal-adaptive'
+891	ID:23	Rime started with address 23.0
+898	ID:97	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+900	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 23.
+901	ID:97	Starting 'example medal-adaptive'
+902	ID:58	Rime started with address 58.0
+904	ID:82	Rime started with address 82.0
+908	ID:19	Rime started with address 19.0
+910	ID:23	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+910	ID:58	MAC 3a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 58.
+913	ID:23	Starting 'example medal-adaptive'
+913	ID:82	MAC 52:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 82.
+916	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 19.
+921	ID:58	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+923	ID:82	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+923	ID:58	Starting 'example medal-adaptive'
+926	ID:82	Starting 'example medal-adaptive'
+927	ID:19	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+929	ID:19	Starting 'example medal-adaptive'
+938	ID:65	Rime started with address 65.0
+946	ID:65	MAC 41:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 65.
+947	ID:76	Rime started with address 76.0
+955	ID:76	MAC 4c:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 76.
+955	ID:18	Rime started with address 18.0
+957	ID:65	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+959	ID:65	Starting 'example medal-adaptive'
+964	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 18.
+966	ID:76	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+968	ID:76	Starting 'example medal-adaptive'
+974	ID:18	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+977	ID:18	Starting 'example medal-adaptive'
+1005	ID:41	Rime started with address 41.0
+1013	ID:41	MAC 29:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 41.
+1023	ID:99	Rime started with address 99.0
+1024	ID:41	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1026	ID:41	Starting 'example medal-adaptive'
+1031	ID:99	MAC 63:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 99.
+1034	ID:85	Rime started with address 85.0
+1041	ID:99	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1042	ID:70	Rime started with address 70.0
+1043	ID:85	MAC 55:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 85.
+1043	ID:53	Rime started with address 53.0
+1044	ID:99	Starting 'example medal-adaptive'
+1047	ID:49	Rime started with address 49.0
+1050	ID:70	MAC 46:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 70.
+1051	ID:53	MAC 35:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 53.
+1052	ID:38	Rime started with address 38.0
+1053	ID:85	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1055	ID:49	MAC 31:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 49.
+1056	ID:85	Starting 'example medal-adaptive'
+1060	ID:38	MAC 26:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 38.
+1061	ID:70	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1062	ID:53	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1063	ID:62	Rime started with address 62.0
+1063	ID:70	Starting 'example medal-adaptive'
+1064	ID:53	Starting 'example medal-adaptive'
+1066	ID:49	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1068	ID:49	Starting 'example medal-adaptive'
+1071	ID:38	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1071	ID:62	MAC 3e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 62.
+1073	ID:38	Starting 'example medal-adaptive'
+1078	ID:45	Rime started with address 45.0
+1081	ID:62	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1083	ID:51	Rime started with address 51.0
+1084	ID:62	Starting 'example medal-adaptive'
+1086	ID:45	MAC 2d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 45.
+1088	ID:30	Rime started with address 30.0
+1091	ID:4	Rime started with address 4.0
+1091	ID:51	MAC 33:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 51.
+1096	ID:30	MAC 1e:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 30.
+1097	ID:45	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1099	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 4.
+1099	ID:45	Starting 'example medal-adaptive'
+1102	ID:51	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1104	ID:51	Starting 'example medal-adaptive'
+1106	ID:30	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1107	ID:104	Rime started with address 104.0
+1109	ID:30	Starting 'example medal-adaptive'
+1109	ID:4	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1112	ID:4	Starting 'example medal-adaptive'
+1113	ID:77	Rime started with address 77.0
+1115	ID:104	MAC 68:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 104.
+1121	ID:77	MAC 4d:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 77.
+1126	ID:104	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1126	ID:3	Rime started with address 3.0
+1128	ID:104	Starting 'example medal-adaptive'
+1132	ID:77	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1134	ID:42	Rime started with address 42.0
+1134	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 3.
+1134	ID:77	Starting 'example medal-adaptive'
+1141	ID:15	Rime started with address 15.0
+1142	ID:42	MAC 2a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 42.
+1144	ID:63	Rime started with address 63.0
+1145	ID:3	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1147	ID:3	Starting 'example medal-adaptive'
+1149	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 15.
+1150	ID:75	Rime started with address 75.0
+1150	ID:10	Rime started with address 10.0
+1152	ID:42	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1153	ID:63	MAC 3f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 63.
+1155	ID:42	Starting 'example medal-adaptive'
+1158	ID:75	MAC 4b:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 75.
+1158	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 10.
+1160	ID:15	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1162	ID:15	Starting 'example medal-adaptive'
+1163	ID:63	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1166	ID:63	Starting 'example medal-adaptive'
+1169	ID:75	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1169	ID:10	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1171	ID:75	Starting 'example medal-adaptive'
+1171	ID:10	Starting 'example medal-adaptive'
+1173	ID:73	Rime started with address 73.0
+1178	ID:20	Rime started with address 20.0
+1181	ID:73	MAC 49:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 73.
+1186	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 20.
+1191	ID:73	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1194	ID:73	Starting 'example medal-adaptive'
+1195	ID:9	Rime started with address 9.0
+1197	ID:20	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1198	ID:25	Rime started with address 25.0
+1199	ID:20	Starting 'example medal-adaptive'
+1203	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 9.
+1204	ID:84	Rime started with address 84.0
+1206	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 25.
+1206	ID:79	Rime started with address 79.0
+1212	ID:84	MAC 54:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 84.
+1213	ID:9	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1214	ID:79	MAC 4f:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 79.
+1216	ID:9	Starting 'example medal-adaptive'
+1216	ID:25	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1219	ID:25	Starting 'example medal-adaptive'
+1222	ID:84	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1222	ID:21	Rime started with address 21.0
+1225	ID:79	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1225	ID:84	Starting 'example medal-adaptive'
+1225	ID:16	Rime started with address 16.0
+1227	ID:79	Starting 'example medal-adaptive'
+1227	ID:52	Rime started with address 52.0
+1230	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 21.
+1233	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 16.
+1236	ID:52	MAC 34:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 52.
+1240	ID:67	Rime started with address 67.0
+1241	ID:21	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1243	ID:21	Starting 'example medal-adaptive'
+1244	ID:16	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1246	ID:52	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1246	ID:16	Starting 'example medal-adaptive'
+1247	ID:32	Rime started with address 32.0
+1248	ID:67	MAC 43:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 67.
+1249	ID:52	Starting 'example medal-adaptive'
+1255	ID:32	MAC 20:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 32.
+1258	ID:67	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1259	ID:35	Rime started with address 35.0
+1261	ID:67	Starting 'example medal-adaptive'
+1266	ID:32	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1267	ID:35	MAC 23:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 35.
+1268	ID:32	Starting 'example medal-adaptive'
+1278	ID:35	nullmac adapt-medal-rdc, channel check rate 16 Hz, radio channel 26
+1280	ID:35	Starting 'example medal-adaptive'
+2288	ID:96	NET_SIZE: 105, PLD_SIZE: 110
+2304	ID:1	NET_SIZE: 105, PLD_SIZE: 110
+2317	ID:33	NET_SIZE: 105, PLD_SIZE: 110
+2326	ID:31	NET_SIZE: 105, PLD_SIZE: 110
+2334	ID:48	NET_SIZE: 105, PLD_SIZE: 110
+2335	ID:89	NET_SIZE: 105, PLD_SIZE: 110
+2339	ID:6	NET_SIZE: 105, PLD_SIZE: 110
+2352	ID:91	NET_SIZE: 105, PLD_SIZE: 110
+2362	ID:71	NET_SIZE: 105, PLD_SIZE: 110
+2370	ID:56	NET_SIZE: 105, PLD_SIZE: 110
+2373	ID:47	NET_SIZE: 105, PLD_SIZE: 110
+2381	ID:87	NET_SIZE: 105, PLD_SIZE: 110
+2393	ID:2	NET_SIZE: 105, PLD_SIZE: 110
+2398	ID:105	NET_SIZE: 105, PLD_SIZE: 110
+2413	ID:1	>:1,1,8,2,1,10
+2416	ID:7	NET_SIZE: 105, PLD_SIZE: 110
+2418	ID:48	>:1,48,8,2,1,7
+2435	ID:54	NET_SIZE: 105, PLD_SIZE: 110
+2441	ID:31	>:1,31,8,2,1,9
+2445	ID:91	>:1,91,8,2,1,6
+2449	ID:5	NET_SIZE: 105, PLD_SIZE: 110
+2452	ID:12	NET_SIZE: 105, PLD_SIZE: 110
+2453	ID:27	NET_SIZE: 105, PLD_SIZE: 110
+2460	ID:22	NET_SIZE: 105, PLD_SIZE: 110
+2486	ID:81	NET_SIZE: 105, PLD_SIZE: 110
+2488	ID:57	NET_SIZE: 105, PLD_SIZE: 110
+2489	ID:1	>:1,1,8,3,2,16
+2490	ID:71	>:1,71,8,2,1,10
+2497	ID:5	>:1,5,8,2,1,4
+2498	ID:102	NET_SIZE: 105, PLD_SIZE: 110
+2500	ID:13	NET_SIZE: 105, PLD_SIZE: 110
+2513	ID:17	NET_SIZE: 105, PLD_SIZE: 110
+2522	ID:102	>:1,102,8,2,1,2
+2526	ID:57	>:1,57,8,2,1,3
+2526	ID:12	>:1,12,8,2,1,5
+2532	ID:96	>:1,96,8,2,1,19
+2543	ID:22	>:1,22,8,2,1,7
+2568	ID:86	NET_SIZE: 105, PLD_SIZE: 110
+2569	ID:12	>:1,12,8,3,2,8
+2569	ID:61	NET_SIZE: 105, PLD_SIZE: 110
+2573	ID:100	NET_SIZE: 105, PLD_SIZE: 110
+2596	ID:72	NET_SIZE: 105, PLD_SIZE: 110
+2596	ID:66	NET_SIZE: 105, PLD_SIZE: 110
+2610	ID:68	NET_SIZE: 105, PLD_SIZE: 110
+2617	ID:71	>:1,71,8,3,2,18
+2625	ID:98	NET_SIZE: 105, PLD_SIZE: 110
+2625	ID:83	NET_SIZE: 105, PLD_SIZE: 110
+2625	ID:59	NET_SIZE: 105, PLD_SIZE: 110
+2639	ID:96	>:1,96,8,3,2,27
+2639	ID:88	NET_SIZE: 105, PLD_SIZE: 110
+2640	ID:27	>:1,27,8,2,1,13
+2644	ID:105	>:1,105,8,2,1,17
+2645	ID:87	>:1,87,8,2,1,20
+2647	ID:27	>:1,27,8,3,2,13
+2647	ID:74	NET_SIZE: 105, PLD_SIZE: 110
+2649	ID:24	NET_SIZE: 105, PLD_SIZE: 110
+2650	ID:87	>:1,87,8,3,2,21
+2651	ID:91	>:1,91,8,3,2,23
+2660	ID:11	NET_SIZE: 105, PLD_SIZE: 110
+2660	ID:2	>:1,2,8,2,1,19
+2669	ID:64	NET_SIZE: 105, PLD_SIZE: 110
+2671	ID:103	NET_SIZE: 105, PLD_SIZE: 110
+2672	ID:44	NET_SIZE: 105, PLD_SIZE: 110
+2672	ID:102	>:1,102,8,3,2,13
+2685	ID:1	>:1,1,8,5,4,30
+2690	ID:37	NET_SIZE: 105, PLD_SIZE: 110
+2691	ID:100	>:1,100,8,2,1,9
+2693	ID:83	>:1,83,8,2,1,5
+2693	ID:87	>:1,87,8,4,3,24
+2694	ID:5	>:1,5,8,3,2,19
+2697	ID:66	>:1,66,8,2,1,8
+2697	ID:86	>:1,86,8,2,1,10
+2698	ID:22	>:1,22,8,3,2,19
+2711	ID:17	>:1,17,8,2,1,14
+2712	ID:101	NET_SIZE: 105, PLD_SIZE: 110
+2713	ID:34	NET_SIZE: 105, PLD_SIZE: 110
+2715	ID:43	NET_SIZE: 105, PLD_SIZE: 110
+2717	ID:14	NET_SIZE: 105, PLD_SIZE: 110
+2724	ID:24	>:1,24,8,2,1,5
+2729	ID:37	>:1,37,8,2,1,3
+2734	ID:68	>:1,68,8,2,1,9
+2736	ID:102	>:1,102,8,4,3,18
+2736	ID:14	>:1,14,8,2,1,2
+2737	ID:12	>:1,12,8,4,3,19
+2738	ID:101	>:1,101,8,2,1,2
+2741	ID:31	>:1,31,8,3,2,31
+2743	ID:50	NET_SIZE: 105, PLD_SIZE: 110
+2747	ID:57	>:1,57,8,3,2,18
+2749	ID:69	NET_SIZE: 105, PLD_SIZE: 110
+2752	ID:89	>:1,89,8,2,1,32
+2756	ID:96	>:1,96,8,4,3,35
+2759	ID:7	>:1,7,8,2,1,25
+2762	ID:37	>:1,37,8,3,2,5
+2768	ID:74	>:1,74,8,2,1,10
+2769	ID:39	NET_SIZE: 105, PLD_SIZE: 110
+2770	ID:80	NET_SIZE: 105, PLD_SIZE: 110
+2773	ID:101	>:1,101,8,3,2,5
+2774	ID:94	NET_SIZE: 105, PLD_SIZE: 110
+2774	ID:61	>:1,61,8,2,1,14
+2775	ID:29	NET_SIZE: 105, PLD_SIZE: 110
+2775	ID:93	NET_SIZE: 105, PLD_SIZE: 110
+2777	ID:101	>:1,101,8,4,3,5
+2784	ID:28	NET_SIZE: 105, PLD_SIZE: 110
+2784	ID:89	>:1,89,8,3,2,33
+2785	ID:88	>:1,88,8,2,1,10
+2786	ID:26	NET_SIZE: 105, PLD_SIZE: 110
+2786	ID:47	>:1,47,8,2,1,27
+2787	ID:69	>:1,69,8,2,1,3
+2791	ID:88	>:1,88,8,3,2,11
+2793	ID:40	NET_SIZE: 105, PLD_SIZE: 110
+2796	ID:90	NET_SIZE: 105, PLD_SIZE: 110
+2797	ID:96	>:1,96,8,5,4,38
+2798	ID:101	>:1,101,8,5,4,7
+2801	ID:68	>:1,68,8,3,2,14
+2805	ID:66	>:1,66,8,3,2,15
+2810	ID:60	NET_SIZE: 105, PLD_SIZE: 110
+2814	ID:13	>:1,13,8,2,1,25
+2815	ID:100	>:1,100,8,3,2,19
+2817	ID:69	>:1,69,8,3,2,6
+2818	ID:26	>:1,26,8,2,1,3
+2819	ID:14	>:1,14,8,3,2,7
+2820	ID:39	>:1,39,8,2,1,4
+2821	ID:13	>:1,13,8,3,2,26
+2826	ID:72	>:1,72,8,2,1,17
+2829	ID:56	>:1,56,8,2,1,32
+2829	ID:46	NET_SIZE: 105, PLD_SIZE: 110
+2830	ID:8	NET_SIZE: 105, PLD_SIZE: 110
+2836	ID:96	>:1,96,8,6,5,41
+2837	ID:86	>:1,86,8,3,2,21
+2837	ID:27	>:1,27,8,4,3,28
+2840	ID:56	>:1,56,8,3,2,33
+2840	ID:78	NET_SIZE: 105, PLD_SIZE: 110
+2841	ID:80	>:1,80,8,2,1,6
+2845	ID:98	>:1,98,8,2,1,16
+2846	ID:93	>:1,93,8,2,1,5
+2851	ID:47	>:1,47,8,3,2,32
+2852	ID:80	>:1,80,8,3,2,7
+2856	ID:37	>:1,37,8,4,3,12
+2857	ID:43	>:1,43,8,2,1,10
+2858	ID:103	>:1,103,8,2,1,13
+2862	ID:68	>:1,68,8,4,3,18
+2868	ID:7	>:1,7,8,3,2,32
+2869	ID:55	NET_SIZE: 105, PLD_SIZE: 110
+2871	ID:37	>:1,37,8,5,4,13
+2877	ID:105	>:1,105,8,3,2,35
+2880	ID:27	>:1,27,8,5,4,30
+2881	ID:98	>:1,98,8,3,2,19
+2883	ID:95	NET_SIZE: 105, PLD_SIZE: 110
+2884	ID:36	NET_SIZE: 105, PLD_SIZE: 110
+2885	ID:17	>:1,17,8,3,2,28
+2886	ID:50	>:1,50,8,2,1,11
+2890	ID:92	NET_SIZE: 105, PLD_SIZE: 110
+2895	ID:100	>:1,100,8,4,3,25
+2899	ID:88	>:1,88,8,4,3,19
+2899	ID:17	>:1,17,8,4,3,29
+2900	ID:97	NET_SIZE: 105, PLD_SIZE: 110
+2903	ID:1	>:1,1,8,6,5,45
+2909	ID:46	>:1,46,8,2,1,6
+2910	ID:66	>:1,66,8,4,3,23
+2912	ID:23	NET_SIZE: 105, PLD_SIZE: 110
+2916	ID:29	>:1,29,8,2,1,10
+2917	ID:93	>:1,93,8,3,2,10
+2917	ID:8	>:1,8,8,2,1,7
+2918	ID:24	>:1,24,8,3,2,20
+2919	ID:47	>:1,47,8,4,3,38
+2923	ID:58	NET_SIZE: 105, PLD_SIZE: 110
+2924	ID:87	>:1,87,8,5,4,41
+2924	ID:22	>:1,22,8,4,3,35
+2925	ID:82	NET_SIZE: 105, PLD_SIZE: 110
+2929	ID:19	NET_SIZE: 105, PLD_SIZE: 110
+2930	ID:100	>:1,100,8,5,4,28
+2931	ID:93	>:1,93,8,4,3,10
+2933	ID:29	>:1,29,8,3,2,11
+2934	ID:47	>:1,47,8,5,4,39
+2942	ID:26	>:1,26,8,3,2,11
+2942	ID:96	>:1,96,8,7,6,50
+2945	ID:74	>:1,74,8,3,2,24
+2946	ID:101	>:1,101,8,6,5,18
+2950	ID:97	>:1,97,8,2,1,4
+2954	ID:59	>:1,59,8,2,1,23
+2957	ID:39	>:1,39,8,3,2,14
+2959	ID:65	NET_SIZE: 105, PLD_SIZE: 110
+2962	ID:28	>:1,28,8,2,1,14
+2963	ID:6	>:1,6,8,2,1,45
+2967	ID:48	>:1,48,8,3,2,46
+2967	ID:72	>:1,72,8,3,2,27
+2968	ID:76	NET_SIZE: 105, PLD_SIZE: 110
+2969	ID:55	>:1,55,8,2,1,7
+2972	ID:27	>:1,27,8,6,5,37
+2972	ID:40	>:1,40,8,2,1,13
+2972	ID:6	>:1,6,8,3,2,46
+2972	ID:72	>:1,72,8,4,3,27
+2974	ID:39	>:1,39,8,4,3,16
+2974	ID:24	>:1,24,8,4,3,24
+2975	ID:31	>:1,31,8,4,3,47
+2976	ID:18	NET_SIZE: 105, PLD_SIZE: 110
+2977	ID:54	>:1,54,8,2,1,41
+2979	ID:13	>:1,13,8,4,3,35
+2979	ID:88	>:1,88,8,5,4,25
+2980	ID:6	>:1,6,8,4,3,47
+2982	ID:8	>:1,8,8,3,2,11
+2984	ID:40	>:1,40,8,3,2,14
+2984	ID:36	>:1,36,8,2,1,8
+2991	ID:102	>:1,102,8,5,4,37
+2991	ID:47	>:1,47,8,6,5,43
+2996	ID:44	>:1,44,8,2,1,22
+2998	ID:65	>:1,65,8,2,1,3
+2999	ID:64	>:1,64,8,2,1,25
+2999	ID:17	>:1,17,8,5,4,38
+3000	ID:66	>:1,66,8,5,4,30
+3000	ID:86	>:1,86,8,4,3,34
+3002	ID:65	>:1,65,8,3,2,3
+3003	ID:5	>:1,5,8,4,3,43
+3006	ID:24	>:1,24,8,5,4,25
+3008	ID:54	>:1,54,8,3,2,43
+3010	ID:24	>:1,24,8,6,5,26
+3012	ID:2	>:1,2,8,3,2,45
+3013	ID:47	>:1,47,8,7,6,45
+3014	ID:78	>:1,78,8,2,1,13
+3018	ID:86	>:1,86,8,5,4,35
+3019	ID:56	>:1,56,8,4,3,46
+3020	ID:46	>:1,46,8,3,2,15
+3020	ID:92	>:1,92,8,2,1,10
+3023	ID:24	>:1,24,8,7,6,27
+3024	ID:87	>:1,87,8,6,5,49
+3026	ID:41	NET_SIZE: 105, PLD_SIZE: 110
+3028	ID:11	>:1,11,8,2,1,26
+3029	ID:27	>:1,27,8,7,6,41
+3030	ID:2	>:1,2,8,4,3,46
+3031	ID:22	>:1,22,8,5,4,42
+3032	ID:11	>:1,11,8,3,2,27
+3033	ID:46	>:1,46,8,4,3,16
+3033	ID:28	>:1,28,8,3,2,19
+3034	ID:83	>:1,83,8,3,2,33
+3035	ID:58	>:1,58,8,2,1,9
+3036	ID:86	>:1,86,8,6,5,36
+3039	ID:39	>:1,39,8,5,4,20
+3039	ID:95	>:1,95,8,2,1,12
+3044	ID:99	NET_SIZE: 105, PLD_SIZE: 110
+3044	ID:74	>:1,74,8,4,3,30
+3044	ID:61	>:1,61,8,3,2,33
+3049	ID:92	>:1,92,8,3,2,12
+3051	ID:22	>:1,22,8,6,5,44
+3051	ID:65	>:1,65,8,4,3,6
+3052	ID:40	>:1,40,8,4,3,19
+3054	ID:66	>:1,66,8,6,5,34
+3055	ID:90	>:1,90,8,2,1,19
+3055	ID:85	NET_SIZE: 105, PLD_SIZE: 110
+3056	ID:82	>:1,82,8,2,1,9
+3057	ID:29	>:1,29,8,4,3,18
+3061	ID:105	>:1,105,8,4,3,47
+3063	ID:70	NET_SIZE: 105, PLD_SIZE: 110
+3064	ID:53	NET_SIZE: 105, PLD_SIZE: 110
+3065	ID:82	>:1,82,8,3,2,10
+3065	ID:48	>:1,48,8,4,3,52
+3068	ID:49	NET_SIZE: 105, PLD_SIZE: 110
+3073	ID:38	NET_SIZE: 105, PLD_SIZE: 110
+3079	ID:69	>:1,69,8,4,3,26
+3084	ID:62	NET_SIZE: 105, PLD_SIZE: 110
+3084	ID:60	>:1,60,8,2,1,21
+3085	ID:102	>:1,102,8,6,5,45
+3085	ID:64	>:1,64,8,3,2,31
+3089	ID:39	>:1,39,8,6,5,24
+3092	ID:56	>:1,56,8,5,4,52
+3098	ID:59	>:1,59,8,3,2,35
+3098	ID:13	>:1,13,8,5,4,46
+3099	ID:44	>:1,44,8,3,2,29
+3099	ID:45	NET_SIZE: 105, PLD_SIZE: 110
+3101	ID:103	>:1,103,8,3,2,30
+3101	ID:97	>:1,97,8,3,2,13
+3103	ID:82	>:1,82,8,4,3,13
+3104	ID:51	NET_SIZE: 105, PLD_SIZE: 110
+3105	ID:97	>:1,97,8,4,3,14
+3106	ID:98	>:1,98,8,4,3,35
+3107	ID:74	>:1,74,8,5,4,35
+3109	ID:30	NET_SIZE: 105, PLD_SIZE: 110
+3110	ID:86	>:1,86,8,7,6,41
+3111	ID:31	>:1,31,8,5,4,56
+3112	ID:4	NET_SIZE: 105, PLD_SIZE: 110
+3112	ID:47	>:1,47,8,8,7,52
+3115	ID:33	>:1,33,8,2,1,58
+3123	ID:51	>:1,51,8,2,1,2
+3123	ID:103	>:1,103,8,4,3,32
+3124	ID:68	>:1,68,8,5,4,39
+3127	ID:85	>:1,85,8,2,1,5
+3128	ID:104	NET_SIZE: 105, PLD_SIZE: 110
+3130	ID:72	>:1,72,8,5,4,39
+3133	ID:2	>:1,2,8,5,4,55
+3133	ID:94	>:1,94,8,2,1,25
+3134	ID:77	NET_SIZE: 105, PLD_SIZE: 110
+3137	ID:38	>:1,38,8,2,1,5
+3138	ID:89	>:1,89,8,4,3,61
+3147	ID:3	NET_SIZE: 105, PLD_SIZE: 110
+3149	ID:8	>:1,8,8,4,3,24
+3150	ID:33	>:1,33,8,3,2,61
+3151	ID:47	>:1,47,8,9,8,55
+3152	ID:46	>:1,46,8,5,4,24
+3155	ID:42	NET_SIZE: 105, PLD_SIZE: 110
+3157	ID:49	>:1,49,8,2,1,8
+3162	ID:4	>:1,4,8,2,1,4
+3162	ID:15	NET_SIZE: 105, PLD_SIZE: 110
+3162	ID:19	>:1,19,8,2,1,16
+3164	ID:74	>:1,74,8,6,5,39
+3165	ID:63	NET_SIZE: 105, PLD_SIZE: 110
+3167	ID:55	>:1,55,8,3,2,21
+3168	ID:70	>:1,70,8,2,1,8
+3168	ID:87	>:1,87,8,7,6,59
+3168	ID:103	>:1,103,8,5,4,35
+3171	ID:93	>:1,93,8,5,4,27
+3171	ID:75	NET_SIZE: 105, PLD_SIZE: 110
+3171	ID:10	NET_SIZE: 105, PLD_SIZE: 110
+3171	ID:105	>:1,105,8,5,4,56
+3173	ID:78	>:1,78,8,3,2,25
+3174	ID:95	>:1,95,8,3,2,21
+3175	ID:93	>:1,93,8,6,5,28
+3176	ID:62	>:1,62,8,2,1,6
+3176	ID:59	>:1,59,8,4,3,39
+3179	ID:48	>:1,48,8,5,4,61
+3180	ID:62	>:1,62,8,3,2,7
+3180	ID:38	>:1,38,8,3,2,8
+3181	ID:78	>:1,78,8,4,3,26
+3183	ID:95	>:1,95,8,4,3,22
+3184	ID:55	>:1,55,8,4,3,22
+3184	ID:38	>:1,38,8,4,3,9
+3185	ID:23	>:1,23,8,2,1,21
+3187	ID:88	>:1,88,8,6,5,40
+3193	ID:86	>:1,86,8,8,7,47
+3193	ID:15	>:1,15,8,2,1,3
+3193	ID:73	NET_SIZE: 105, PLD_SIZE: 110
+3194	ID:29	>:1,29,8,5,4,28
+3194	ID:97	>:1,97,8,5,4,20
+3196	ID:49	>:1,49,8,3,2,11
+3196	ID:11	>:1,11,8,4,3,41
+3199	ID:20	NET_SIZE: 105, PLD_SIZE: 110
+3200	ID:92	>:1,92,8,4,3,22
+3202	ID:93	>:1,93,8,7,6,30
+3204	ID:92	>:1,92,8,5,4,23
+3208	ID:38	>:1,38,8,5,4,10
+3210	ID:40	>:1,40,8,5,4,30
+3211	ID:34	>:1,34,8,2,1,37
+3211	ID:4	>:1,4,8,3,2,8
+3214	ID:95	>:1,95,8,5,4,24
+3215	ID:104	>:1,104,8,2,1,7
+3216	ID:9	NET_SIZE: 105, PLD_SIZE: 110
+3219	ID:25	NET_SIZE: 105, PLD_SIZE: 110
+3220	ID:14	>:1,14,8,4,3,37
+3221	ID:40	>:1,40,8,6,5,31
+3222	ID:71	>:1,71,8,4,3,64
+3225	ID:84	NET_SIZE: 105, PLD_SIZE: 110
+3225	ID:28	>:1,28,8,4,3,32
+3227	ID:79	NET_SIZE: 105, PLD_SIZE: 110
+3228	ID:78	>:1,78,8,5,4,29
+3228	ID:93	>:1,93,8,8,7,33
+3229	ID:4	>:1,4,8,4,3,9
+3230	ID:29	>:1,29,8,6,5,30
+3231	ID:36	>:1,36,8,3,2,25
+3232	ID:47	>:1,47,8,10,9,61
+3232	ID:34	>:1,34,8,3,2,38
+3234	ID:23	>:1,23,8,3,2,24
+3234	ID:29	>:1,29,8,7,6,31
+3239	ID:28	>:1,28,8,5,4,32
+3241	ID:70	>:1,70,8,3,2,14
+3241	ID:6	>:1,6,8,5,4,66
+3243	ID:21	NET_SIZE: 105, PLD_SIZE: 110
+3245	ID:68	>:1,68,8,6,5,48
+3246	ID:16	NET_SIZE: 105, PLD_SIZE: 110
+3247	ID:91	>:1,91,8,4,3,64
+3248	ID:52	NET_SIZE: 105, PLD_SIZE: 110
+3249	ID:2	>:1,2,8,6,5,63
+3250	ID:20	>:1,20,8,2,1,4
+3250	ID:62	>:1,62,8,4,3,12
+3251	ID:63	>:1,63,8,2,1,7
+3253	ID:22	>:1,22,8,7,6,58
+3253	ID:36	>:1,36,8,4,3,27
+3254	ID:89	>:1,89,8,5,4,68
+3256	ID:70	>:1,70,8,4,3,15
+3258	ID:51	>:1,51,8,3,2,11
+3258	ID:88	>:1,88,8,7,6,46
+3260	ID:30	>:1,30,8,2,1,12
+3261	ID:22	>:1,22,8,8,7,59
+3261	ID:70	>:1,70,8,5,4,15
+3261	ID:67	NET_SIZE: 105, PLD_SIZE: 110
+3264	ID:71	>:1,71,8,5,4,67
+3264	ID:55	>:1,55,8,5,4,28
+3267	ID:104	>:1,104,8,3,2,11
+3268	ID:32	NET_SIZE: 105, PLD_SIZE: 110
+3269	ID:41	>:1,41,8,2,1,19
+3271	ID:28	>:1,28,8,6,5,35
+3272	ID:73	>:1,73,8,2,1,5
+3273	ID:55	>:1,55,8,6,5,29
+3275	ID:99	>:1,99,8,2,1,16
+3277	ID:80	>:1,80,8,4,3,37
+3278	ID:87	>:1,87,8,8,7,67
+3280	ID:35	NET_SIZE: 105, PLD_SIZE: 110
+3282	ID:20	>:1,20,8,3,2,6
+3282	ID:88	>:1,88,8,8,7,48
+3284	ID:70	>:1,70,8,6,5,16
+3284	ID:6	>:1,6,8,6,5,69
+3284	ID:2	>:1,2,8,7,6,66
+3284	ID:21	>:1,21,8,2,1,4
+3288	ID:97	>:1,97,8,6,5,27
+3293	ID:4	>:1,4,8,5,4,13
+3295	ID:65	>:1,65,8,5,4,23
+3297	ID:3	>:1,3,8,2,1,12
+3298	ID:62	>:1,62,8,5,4,16
+3298	ID:92	>:1,92,8,6,5,30
+3299	ID:33	>:1,33,8,4,3,72
+3300	ID:11	>:1,11,8,5,4,50
+3302	ID:32	>:1,32,8,2,1,3
+3303	ID:84	>:1,84,8,2,1,6
+3305	ID:50	>:1,50,8,3,2,41
+3305	ID:34	>:1,34,8,4,3,44
+3308	ID:46	>:1,46,8,6,5,36
+3308	ID:104	>:1,104,8,4,3,13
+3309	ID:84	>:1,84,8,3,2,7
+3310	ID:13	>:1,13,8,6,5,61
+3313	ID:10	>:1,10,8,2,1,10
+3314	ID:36	>:1,36,8,5,4,31
+3317	ID:59	>:1,59,8,5,4,49
+3317	ID:67	>:1,67,8,2,1,4
+3318	ID:71	>:1,71,8,6,5,72
+3324	ID:10	>:1,10,8,3,2,11
+3325	ID:105	>:1,105,8,6,5,68
+3331	ID:98	>:1,98,8,5,4,52
+3332	ID:45	>:1,45,8,2,1,16
+3332	ID:87	>:1,87,8,9,8,72
+3340	ID:81	>:1,81,8,2,1,64
+3341	ID:76	>:1,76,8,2,1,27
+3342	ID:31	>:1,31,8,6,5,74
+3343	ID:42	>:1,42,8,2,1,15
+3343	ID:11	>:1,11,8,6,5,53
+3345	ID:77	>:1,77,8,2,1,17
+3346	ID:97	>:1,97,8,7,6,30
+3347	ID:50	>:1,50,8,4,3,43
+3348	ID:90	>:1,90,8,3,2,40
+3351	ID:101	>:1,101,8,7,6,45
+3353	ID:18	>:1,18,8,2,1,28
+3354	ID:98	>:1,98,8,6,5,54
+3354	ID:83	>:1,83,8,4,3,56
+3357	ID:59	>:1,59,8,6,5,53
+3359	ID:32	>:1,32,8,3,2,7
+3360	ID:96	>:1,96,8,8,7,82
+3361	ID:94	>:1,94,8,3,2,41
+3361	ID:93	>:1,93,8,9,8,41
+3364	ID:28	>:1,28,8,7,6,42
+3364	ID:74	>:1,74,8,7,6,55
+3366	ID:99	>:1,99,8,3,2,22
+3366	ID:47	>:1,47,8,11,10,72
+3367	ID:65	>:1,65,8,6,5,28
+3367	ID:46	>:1,46,8,7,6,40
+3372	ID:82	>:1,82,8,5,4,32
+3376	ID:103	>:1,103,8,6,5,50
+3376	ID:46	>:1,46,8,8,7,41
+3377	ID:29	>:1,29,8,8,7,41
+3377	ID:77	>:1,77,8,3,2,20
+3382	ID:33	>:1,33,8,5,4,77
+3383	ID:74	>:1,74,8,8,7,57
+3385	ID:51	>:1,51,8,4,3,20
+3385	ID:3	>:1,3,8,3,2,18
+3385	ID:97	>:1,97,8,8,7,32
+3388	ID:36	>:1,36,8,6,5,37
+3395	ID:50	>:1,50,8,5,4,47
+3396	ID:7	>:1,7,8,4,3,70
+3399	ID:90	>:1,90,8,4,3,44
+3399	ID:40	>:1,40,8,7,6,43
+3400	ID:11	>:1,11,8,7,6,56
+3401	ID:10	>:1,10,8,4,3,15
+3402	ID:57	>:1,57,8,4,3,65
+3402	ID:8	>:1,8,8,5,4,42
+3403	ID:84	>:1,84,8,4,3,13
+3406	ID:93	>:1,93,8,10,9,44
+3406	ID:94	>:1,94,8,4,3,44
+3408	ID:59	>:1,59,8,7,6,57
+3411	ID:40	>:1,40,8,8,7,44
+3412	ID:17	>:1,17,8,6,5,69
+3412	ID:85	>:1,85,8,3,2,25
+3413	ID:57	>:1,57,8,5,4,66
+3416	ID:44	>:1,44,8,4,3,51
+3416	ID:13	>:1,13,8,7,6,67
+3416	ID:21	>:1,21,8,3,2,13
+3419	ID:51	>:1,51,8,5,4,23
+3419	ID:72	>:1,72,8,6,5,62
+3419	ID:36	>:1,36,8,7,6,39
+3423	ID:72	>:1,72,8,7,6,62
+3423	ID:53	>:1,53,8,2,1,24
+3425	ID:85	>:1,85,8,4,3,26
+3426	ID:81	>:1,81,8,3,2,70
+3427	ID:20	>:1,20,8,4,3,17
+3429	ID:101	>:1,101,8,8,7,52
+3431	ID:72	>:1,72,8,8,7,63
+3432	ID:37	>:1,37,8,6,5,52
+3432	ID:63	>:1,63,8,3,2,19
+3434	ID:21	>:1,21,8,4,3,14
+3434	ID:100	>:1,100,8,6,5,64
+3435	ID:85	>:1,85,8,5,4,27
+3436	ID:94	>:1,94,8,5,4,46
+3436	ID:81	>:1,81,8,4,3,71
+3437	ID:86	>:1,86,8,9,8,64
+3438	ID:90	>:1,90,8,5,4,47
+3442	ID:13	>:1,13,8,8,7,70
+3443	ID:51	>:1,51,8,6,5,25
+3445	ID:85	>:1,85,8,6,5,28
+3448	ID:61	>:1,61,8,4,3,61
+3448	ID:80	>:1,80,8,5,4,50
+3450	ID:42	>:1,42,8,3,2,23
+3450	ID:6	>:1,6,8,7,6,82
+3456	ID:97	>:1,97,8,9,8,37
+3459	ID:91	>:1,91,8,5,4,80
+3460	ID:80	>:1,80,8,6,5,51
+3462	ID:61	>:1,61,8,5,4,63
+3463	ID:81	>:1,81,8,5,4,73
+3466	ID:105	>:1,105,8,7,6,79
+3467	ID:31	>:1,31,8,7,6,82
+3471	ID:28	>:1,28,8,8,7,51
+3474	ID:56	>:1,56,8,6,5,78
+3474	ID:43	>:1,43,8,3,2,53
+3474	ID:105	>:1,105,8,8,7,79
+3478	ID:87	>:1,87,8,10,9,82
+3478	ID:70	>:1,70,8,7,6,29
+3479	ID:95	>:1,95,8,6,5,45
+3482	ID:10	>:1,10,8,5,4,22
+3483	ID:20	>:1,20,8,5,4,20
+3486	ID:1	>:1,1,8,7,6,88
+3489	ID:28	>:1,28,8,9,8,53
+3492	ID:68	>:1,68,8,7,6,67
+3492	ID:1	>:1,1,8,8,7,89
+3495	ID:79	>:1,79,8,2,1,22
+3495	ID:73	>:1,73,8,3,2,21
+3495	ID:40	>:1,40,8,9,8,50
+3500	ID:36	>:1,36,8,8,7,46
+3500	ID:20	>:1,20,8,6,5,21
+3501	ID:16	>:1,16,8,2,1,21
+3502	ID:100	>:1,100,8,7,6,69
+3504	ID:21	>:1,21,8,5,4,19
+3508	ID:75	>:1,75,8,2,1,25
+3509	ID:93	>:1,93,8,11,10,52
+3509	ID:15	>:1,15,8,3,2,26
+3510	ID:56	>:1,56,8,7,6,81
+3515	ID:17	>:1,17,8,7,6,77
+3517	ID:85	>:1,85,8,7,6,32
+3518	ID:41	>:1,41,8,3,2,37
+3518	ID:6	>:1,6,8,8,7,87
+3520	ID:33	>:1,33,8,6,5,87
+3523	ID:1	>:1,1,8,9,8,90
+3525	ID:23	>:1,23,8,4,3,45
+3525	ID:38	>:1,38,8,6,5,30
+3533	ID:7	>:1,7,8,5,4,80
+3536	ID:94	>:1,94,8,6,5,54
+3537	ID:63	>:1,63,8,4,3,27
+3537	ID:26	>:1,26,8,4,3,54
+3539	ID:92	>:1,92,8,7,6,48
+3542	ID:38	>:1,38,8,7,6,31
+3544	ID:76	>:1,76,8,3,2,41
+3544	ID:15	>:1,15,8,4,3,29
+3546	ID:41	>:1,41,8,4,3,39
+3550	ID:43	>:1,43,8,4,3,59
+3550	ID:73	>:1,73,8,4,3,24
+3551	ID:75	>:1,75,8,3,2,28
+3555	ID:85	>:1,85,8,8,7,36
+3556	ID:83	>:1,83,8,5,4,72
+3557	ID:9	>:1,9,8,2,1,28
+3558	ID:44	>:1,44,8,5,4,61
+3561	ID:32	>:1,32,8,4,3,22
+3562	ID:80	>:1,80,8,7,6,58
+3565	ID:13	>:1,13,8,9,8,79
+3569	ID:56	>:1,56,8,8,7,86
+3570	ID:78	>:1,78,8,6,5,56
+3570	ID:90	>:1,90,8,6,5,56
+3572	ID:49	>:1,49,8,4,3,36
+3572	ID:13	>:1,13,8,10,9,79
+3576	ID:97	>:1,97,8,10,9,47
+3576	ID:62	>:1,62,8,6,5,34
+3577	ID:54	>:1,54,8,4,3,85
+3577	ID:22	>:1,22,8,9,8,80
+3578	ID:15	>:1,15,8,5,4,31
+3586	ID:4	>:1,4,8,6,5,33
+3590	ID:9	>:1,9,8,3,2,30
+3590	ID:95	>:1,95,8,7,6,54
+3591	ID:51	>:1,51,8,7,6,36
+3591	ID:15	>:1,15,8,6,5,32
+3592	ID:68	>:1,68,8,8,7,73
+3593	ID:53	>:1,53,8,3,2,36
+3593	ID:71	>:1,71,8,7,6,92
+3598	ID:101	>:1,101,8,9,8,65
+3599	ID:79	>:1,79,8,3,2,29
+3599	ID:49	>:1,49,8,5,4,39
+3599	ID:47	>:1,47,8,12,11,91
+3604	ID:85	>:1,85,8,9,8,39
+3605	ID:104	>:1,104,8,5,4,35
+3607	ID:13	>:1,13,8,11,10,82
+3612	ID:94	>:1,94,8,7,6,59
+3617	ID:101	>:1,101,8,10,9,67
+3618	ID:40	>:1,40,8,10,9,60
+3618	ID:10	>:1,10,8,6,5,31
+3619	ID:26	>:1,26,8,5,4,61
+3622	ID:13	>:1,13,8,12,11,83
+3626	ID:1	>:1,1,8,10,9,99
+3627	ID:48	>:1,48,8,6,5,93
+3628	ID:24	>:1,24,8,8,7,71
+3628	ID:8	>:1,8,8,6,5,59
+3628	ID:2	>:1,2,8,8,7,90
+3631	ID:100	>:1,100,8,8,7,77
+3632	ID:50	>:1,50,8,6,5,65
+3632	ID:79	>:1,79,8,4,3,31
+3632	ID:81	>:1,81,8,6,5,85
+3633	ID:11	>:1,11,8,8,7,72
+3633	ID:62	>:1,62,8,7,6,39
+3637	ID:48	>:1,48,8,7,6,94
+3639	ID:35	>:1,35,8,2,1,24
+3640	ID:31	>:1,31,8,8,7,95
+3643	ID:62	>:1,62,8,8,7,40
+3643	ID:56	>:1,56,8,9,8,91
+3645	ID:86	>:1,86,8,10,9,81
+3646	ID:8	>:1,8,8,7,6,60
+3647	ID:54	>:1,54,8,5,4,90
+3647	ID:81	>:1,81,8,7,6,85
+3648	ID:100	>:1,100,8,9,8,79
+3656	ID:71	>:1,71,8,8,7,96
+3656	ID:105	>:1,105,8,9,8,93
+3660	ID:54	>:1,54,8,6,5,91
+3661	ID:51	>:1,51,8,8,7,40
+3661	ID:56	>:1,56,8,10,9,92
+3663	ID:96	>:1,96,8,9,8,102
+3672	ID:25	>:1,25,8,2,1,31
+3672	ID:16	>:1,16,8,3,2,33
+3672	ID:54	>:1,54,8,7,6,92
+3675	ID:34	>:1,34,8,5,4,72
+3676	ID:73	>:1,73,8,5,4,31
+3680	ID:34	>:1,34,8,6,5,72
+3681	ID:64	>:1,64,8,4,3,76
+3681	ID:27	>:1,27,8,8,7,88
+3691	ID:29	>:1,29,8,9,8,62
+3692	ID:80	>:1,80,8,8,7,69
+3692	ID:79	>:1,79,8,5,4,34
+3693	ID:83	>:1,83,8,6,5,82
+3696	ID:101	>:1,101,8,11,10,72
+3703	ID:72	>:1,72,8,9,8,80
+3704	ID:12	>:1,12,8,5,4,86
+3705	ID:15	>:1,15,8,7,6,40
+3706	ID:11	>:1,11,8,9,8,76
+3708	ID:52	>:1,52,8,2,1,32
+3708	ID:91	>:1,91,8,6,5,98
+3708	ID:76	>:1,76,8,4,3,53
+3714	ID:20	>:1,20,8,7,6,37
+3714	ID:27	>:1,27,8,9,8,91
+3715	ID:50	>:1,50,8,7,6,71
+3721	ID:101	>:1,101,8,12,11,75
+3722	ID:44	>:1,44,8,6,5,74
+3722	ID:60	>:1,60,8,3,2,69
+3722	ID:94	>:1,94,8,8,7,67
+3722	ID:36	>:1,36,8,9,8,63
+3722	ID:12	>:1,12,8,6,5,87
+3726	ID:96	>:1,96,8,10,9,107
+3727	ID:45	>:1,45,8,3,2,42
+3728	ID:11	>:1,11,8,10,9,78
+3732	ID:72	>:1,72,8,10,9,82
+3732	ID:19	>:1,19,8,3,2,57
+3733	ID:62	>:1,62,8,9,8,46
+3734	ID:65	>:1,65,8,7,6,56
+3737	ID:75	>:1,75,8,4,3,41
+3739	ID:89	>:1,89,8,6,5,105
+3741	ID:26	>:1,26,8,6,5,70
+3743	ID:59	>:1,59,8,8,7,80
+3744	ID:37	>:1,37,8,7,6,78
+3745	ID:8	>:1,8,8,8,7,68
+3745	ID:14	>:1,14,8,5,4,74
+3747	ID:28	>:1,28,8,10,9,71
+3747	ID:75	>:1,75,8,5,4,42
+3748	ID:54	>:1,54,8,8,7,99
+3752	ID:23	>:1,23,8,5,4,62
+3752	ID:55	>:1,55,8,7,6,61
+3754	ID:85	>:1,85,8,10,9,49
+3754	ID:87	>:1,87,8,11,10,101
+3765	ID:71	>:1,71,8,9,8,104
+3765	ID:55	>:1,55,8,8,7,62
+3766	ID:105	>:1,105,8,10,9,101
+3767	ID:33	>:1,33,8,7,6,104
+3767	ID:91	>:1,91,8,7,6,102
+3767	ID:36	>:1,36,8,10,9,66
+3767	ID:67	>:1,67,8,3,2,35
+3769	ID:52	>:1,52,8,3,2,37
+3776	ID:68	>:1,68,8,9,8,88
+3776	ID:38	>:1,38,8,8,7,49
+3777	ID:12	>:1,12,8,7,6,91
+3783	ID:60	>:1,60,8,4,3,73
+3784	ID:44	>:1,44,8,7,6,79
+3786	ID:101	>:1,101,8,13,12,80
+3786	ID:77	>:1,77,8,4,3,53
+3789	ID:14	>:1,14,8,6,5,76
+3790	ID:55	>:1,55,8,9,8,63
+3790	ID:4	>:1,4,8,7,6,48
+3795	ID:55	>:1,55,8,10,9,64
+3795	ID:41	>:1,41,8,5,4,57
+3796	ID:51	>:1,51,8,9,8,48
+3797	ID:84	>:1,84,8,5,4,41
+3798	ID:69	>:1,69,8,5,4,79
+3803	ID:85	>:1,85,8,11,10,53
+3811	ID:23	>:1,23,8,6,5,66
+3815	ID:29	>:1,29,8,10,9,73
+3815	ID:75	>:1,75,8,6,5,47
+3817	ID:27	>:1,27,8,10,9,98
+3821	ID:31	>:1,31,8,9,8,108
+3822	ID:4	>:1,4,8,8,7,51
+3823	ID:87	>:1,87,8,12,11,106
+3826	ID:58	>:1,58,8,3,2,68
+3827	ID:17	>:1,17,8,8,7,99
+3831	ID:64	>:1,64,8,5,4,87
+3833	ID:104	>:1,104,8,6,5,53
+3835	ID:22	>:1,22,8,10,9,99
+3835	ID:90	>:1,90,8,7,6,76
+3839	ID:10	>:1,10,8,7,6,46
+3842	ID:90	>:1,90,8,8,7,76
+3844	ID:20	>:1,20,8,8,7,47
+3846	ID:28	>:1,28,8,11,10,78
+3846	ID:95	>:1,95,8,8,7,73
+3849	ID:46	>:1,46,8,9,8,74
+3850	ID:50	>:1,50,8,8,7,81
+3852	ID:84	>:1,84,8,6,5,45
+3852	ID:67	>:1,67,8,4,3,41
+3852	ID:24	>:1,24,8,9,8,87
+3852	ID:55	>:1,55,8,11,10,68
+3854	ID:95	>:1,95,8,9,8,74
+3860	ID:84	>:1,84,8,7,6,46
+3862	ID:94	>:1,94,8,9,8,79
+3863	ID:97	>:1,97,8,11,10,69
+3863	ID:24	>:1,24,8,10,9,88
+3866	ID:48	>:1,48,8,8,7,110
+3866	ID:81	>:1,81,8,8,7,102
+3867	ID:10	>:1,10,8,8,7,48
+3869	ID:45	>:1,45,8,4,3,53
+3872	ID:73	>:1,73,8,6,5,46
+3874	ID:94	>:1,94,8,10,9,80
+3884	ID:33	>:1,33,8,8,7,114
+3885	ID:101	>:1,101,8,14,13,89
+3888	ID:75	>:1,75,8,7,6,52
+3888	ID:85	>:1,85,8,12,11,59
+3888	ID:104	>:1,104,8,7,6,58
+3891	ID:99	>:1,99,8,4,3,60
+3892	ID:59	>:1,59,8,9,8,90
+3892	ID:3	>:1,3,8,4,3,54
+3898	ID:41	>:1,41,8,6,5,65
+3898	ID:85	>:1,85,8,13,12,60
+3902	ID:57	>:1,57,8,6,5,100
+3906	ID:41	>:1,41,8,7,6,66
+3907	ID:15	>:1,15,8,8,7,54
+3908	ID:78	>:1,78,8,7,6,81
+3914	ID:64	>:1,64,8,6,5,94
+3916	ID:50	>:1,50,8,9,8,86
+3922	ID:77	>:1,77,8,5,4,61
+3924	ID:71	>:1,71,8,10,9,117
+3931	ID:37	>:1,37,8,8,7,91
+3932	ID:17	>:1,17,8,9,8,106
+3932	ID:97	>:1,97,8,12,11,74
+3933	ID:27	>:1,27,8,11,10,107
+3934	ID:36	>:1,36,8,11,10,79
+3936	ID:49	>:1,49,8,6,5,63
+3937	ID:75	>:1,75,8,8,7,57
+3943	ID:84	>:1,84,8,8,7,53
+3944	ID:16	>:1,16,8,4,3,52
+3945	ID:20	>:1,20,8,9,8,55
+3947	ID:91	>:1,91,8,8,7,115
+3949	ID:60	>:1,60,8,5,4,85
+3949	ID:45	>:1,45,8,5,4,57
+3952	ID:94	>:1,94,8,11,10,86
+3952	ID:79	>:1,79,8,6,5,54
+3958	ID:48	>:1,48,8,9,8,116
+3966	ID:28	>:1,28,8,12,11,88
+3967	ID:32	>:1,32,8,5,4,52
+3973	ID:95	>:1,95,8,10,9,84
+3973	ID:81	>:1,81,8,9,8,109
+3974	ID:40	>:1,40,8,11,10,86
+3974	ID:35	>:1,35,8,3,2,48
+3976	ID:10	>:1,10,8,9,8,56
+3976	ID:92	>:1,92,8,8,7,79
+3978	ID:25	>:1,25,8,3,2,53
+3980	ID:30	>:1,30,8,3,2,68
+3980	ID:55	>:1,55,8,12,11,77
+3982	ID:17	>:1,17,8,10,9,109
+3983	ID:61	>:1,61,8,6,5,100
+3985	ID:98	>:1,98,8,7,6,104
+3987	ID:26	>:1,26,8,7,6,89
+3987	ID:40	>:1,40,8,12,11,88
+3988	ID:82	>:1,82,8,6,5,77
+3991	ID:84	>:1,84,8,9,8,56
+3991	ID:62	>:1,62,8,10,9,66
+3992	ID:89	>:1,89,8,7,6,121
+3993	ID:35	>:1,35,8,4,3,49
+3995	ID:58	>:1,58,8,4,3,81
+3996	ID:15	>:1,15,8,9,8,60
+3997	ID:93	>:1,93,8,12,11,87
+3999	ID:33	>:1,33,8,9,8,122
+3999	ID:48	>:1,48,8,10,9,119
+4006	ID:81	>:1,81,8,10,9,112
+4012	ID:21	>:1,21,8,6,5,53
+4014	ID:88	>:1,88,8,9,8,105
+4015	ID:67	>:1,67,8,5,4,54
+4017	ID:46	>:1,46,8,10,9,86
+4020	ID:102	>:1,102,8,7,6,117
+4023	ID:55	>:1,55,8,13,12,81
+4024	ID:45	>:1,45,8,6,5,63
+4024	ID:34	>:1,34,8,7,6,97
+4032	ID:78	>:1,78,8,8,7,89
+4033	ID:95	>:1,95,8,11,10,88
+4033	ID:34	>:1,34,8,8,7,98
+4034	ID:76	>:1,76,8,5,4,76
+4035	ID:79	>:1,79,8,7,6,61
+4036	ID:30	>:1,30,8,4,3,72
+4037	ID:47	>:1,47,8,13,12,121
+4038	ID:10	>:1,10,8,10,9,61
+4038	ID:8	>:1,8,8,9,8,89
+4039	ID:28	>:1,28,8,13,12,92
+4041	ID:76	>:1,76,8,6,5,76
+4043	ID:47	>:1,47,8,14,13,122
+4046	ID:30	>:1,30,8,5,4,73
+4048	ID:43	>:1,43,8,5,4,94
+4059	ID:12	>:1,12,8,8,7,111
+4059	ID:32	>:1,32,8,6,5,60
+4060	ID:68	>:1,68,8,10,9,109
+4061	ID:8	>:1,8,8,10,9,91
+4070	ID:59	>:1,59,8,10,9,104
+4074	ID:55	>:1,55,8,14,13,85
+4074	ID:49	>:1,49,8,7,6,75
+4074	ID:46	>:1,46,8,11,10,89
+4077	ID:85	>:1,85,8,14,13,73
+4077	ID:9	>:1,9,8,4,3,65
+4080	ID:25	>:1,25,8,4,3,60
+4080	ID:56	>:1,56,8,11,10,119
+4082	ID:57	>:1,57,8,7,6,113
+4084	ID:55	>:1,55,8,15,14,86
+4086	ID:97	>:1,97,8,13,12,87
+4087	ID:96	>:1,96,8,11,10,132
+4093	ID:63	>:1,63,8,5,4,69
+4095	ID:42	>:1,42,8,4,3,74
+4097	ID:99	>:1,99,8,5,4,76
+4099	ID:10	>:1,10,8,11,10,66
+4105	ID:12	>:1,12,8,9,8,115
+4107	ID:18	>:1,18,8,3,2,86
+4109	ID:35	>:1,35,8,5,4,57
+4110	ID:58	>:1,58,8,5,4,88
+4113	ID:17	>:1,17,8,11,10,119
+4113	ID:89	>:1,89,8,8,7,130
+4114	ID:14	>:1,14,8,7,6,101
+4114	ID:22	>:1,22,8,11,10,121
+4115	ID:39	>:1,39,8,7,6,101
+4120	ID:49	>:1,49,8,8,7,78
+4121	ID:27	>:1,27,8,12,11,123
+4124	ID:81	>:1,81,8,11,10,121
+4131	ID:79	>:1,79,8,8,7,68
+4141	ID:49	>:1,49,8,9,8,80
+4143	ID:38	>:1,38,8,9,8,75
+4145	ID:49	>:1,49,8,10,9,81
+4149	ID:27	>:1,27,8,13,12,125
+4149	ID:96	>:1,96,8,12,11,137
+4149	ID:23	>:1,23,8,7,6,90
+4155	ID:96	>:1,96,8,13,12,137
+4157	ID:65	>:1,65,8,8,7,87
+4158	ID:25	>:1,25,8,5,4,66
+4159	ID:34	>:1,34,8,9,8,107
+4162	ID:4	>:1,4,8,9,8,75
+4162	ID:9	>:1,9,8,5,4,71
+4164	ID:19	>:1,19,8,4,3,91
+4166	ID:26	>:1,26,8,8,7,101
+4168	ID:32	>:1,32,8,7,6,68
+4171	ID:47	>:1,47,8,15,14,132
+4172	ID:76	>:1,76,8,7,6,86
+4173	ID:9	>:1,9,8,6,5,72
+4181	ID:15	>:1,15,8,10,9,73
+4186	ID:52	>:1,52,8,4,3,67
+4186	ID:82	>:1,82,8,7,6,91
+4187	ID:68	>:1,68,8,11,10,116
+4189	ID:61	>:1,61,8,7,6,116
+4189	ID:33	>:1,33,8,10,9,134
+4195	ID:76	>:1,76,8,8,7,88
+4206	ID:78	>:1,78,8,9,8,103
+4207	ID:83	>:1,83,8,7,6,119
+4211	ID:83	>:1,83,8,8,7,120
+4212	ID:3	>:1,3,8,5,4,76
+4212	ID:92	>:1,92,8,9,8,96
+4212	ID:21	>:1,21,8,8,7,66
+4213	ID:80	>:1,80,8,9,8,105
+4213	ID:10	>:1,10,8,12,11,75
+4213	ID:104	>:1,104,8,8,7,81
+4214	ID:16	>:1,16,8,5,4,70
+4214	ID:65	>:1,65,8,9,8,90
+4218	ID:35	>:1,35,8,6,5,66
+4224	ID:2	>:1,2,8,9,8,135
+4225	ID:78	>:1,78,8,10,9,104
+4229	ID:48	>:1,48,8,11,10,136
+4233	ID:42	>:1,42,8,5,4,83
+4236	ID:75	>:1,75,8,9,8,78
+4241	ID:15	>:1,15,8,11,10,77
+4244	ID:55	>:1,55,8,16,15,97
+4246	ID:50	>:1,50,8,10,9,111
+4246	ID:61	>:1,61,8,8,7,121
+4251	ID:47	>:1,47,8,16,15,138
+4252	ID:29	>:1,29,8,11,10,107
+4254	ID:25	>:1,25,8,6,5,74
+4256	ID:10	>:1,10,8,13,12,78
+4257	ID:26	>:1,26,8,9,8,107
+4259	ID:34	>:1,34,8,10,9,115
+4260	ID:46	>:1,46,8,12,11,103
+4263	ID:53	>:1,53,8,4,3,83
+4267	ID:89	>:1,89,8,9,8,141
+4270	ID:76	>:1,76,8,9,8,93
+4271	ID:51	>:1,51,8,10,9,83
+4274	ID:83	>:1,83,8,9,8,125
+4275	ID:17	>:1,17,8,12,11,130
+4287	ID:49	>:1,49,8,11,10,91
+4287	ID:74	>:1,74,8,9,8,121
+4288	ID:60	>:1,60,8,6,5,108
+4289	ID:41	>:1,41,8,8,7,95
+4292	ID:37	>:1,37,8,9,8,116
+4295	ID:46	>:1,46,8,13,12,106
+4298	ID:23	>:1,23,8,8,7,102
+4300	ID:63	>:1,63,8,6,5,83
+4303	ID:56	>:1,56,8,12,11,135
+4303	ID:18	>:1,18,8,4,3,100
+4304	ID:72	>:1,72,8,11,10,124
+4304	ID:54	>:1,54,8,9,8,139
+4308	ID:4	>:1,4,8,10,9,85
+4309	ID:92	>:1,92,8,10,9,103
+4310	ID:1	>:1,1,8,11,10,152
+4310	ID:61	>:1,61,8,9,8,126
+4314	ID:99	>:1,99,8,6,5,92
+4315	ID:87	>:1,87,8,13,12,142
+4317	ID:2	>:1,2,8,10,9,142
+4320	ID:34	>:1,34,8,11,10,120
+4321	ID:18	>:1,18,8,5,4,101
+4324	ID:65	>:1,65,8,10,9,97
+4324	ID:87	>:1,87,8,14,13,143
+4328	ID:69	>:1,69,8,6,5,120
+4329	ID:26	>:1,26,8,10,9,112
+4344	ID:82	>:1,82,8,8,7,102
+4346	ID:56	>:1,56,8,13,12,138
+4350	ID:21	>:1,21,8,9,8,76
+4353	ID:41	>:1,41,8,9,8,99
+4354	ID:69	>:1,69,8,7,6,123
+4354	ID:83	>:1,83,8,10,9,131
+4357	ID:73	>:1,73,8,7,6,81
+4360	ID:66	>:1,66,8,7,6,132
+4365	ID:32	>:1,32,8,8,7,82
+4370	ID:36	>:1,36,8,12,11,111
+4372	ID:93	>:1,93,8,13,12,114
+4375	ID:2	>:1,2,8,11,10,146
+4379	ID:13	>:1,13,8,13,12,136
+4383	ID:59	>:1,59,8,11,10,128
+4384	ID:84	>:1,84,8,10,9,84
+4385	ID:65	>:1,65,8,11,10,103
+4386	ID:63	>:1,63,8,7,6,91
+4388	ID:47	>:1,47,8,17,16,148
+4391	ID:63	>:1,63,8,8,7,91
+4393	ID:10	>:1,10,8,14,13,87
+4399	ID:70	>:1,70,8,8,7,96
+4399	ID:28	>:1,28,8,14,13,119
+4399	ID:65	>:1,65,8,12,11,104
+4402	ID:68	>:1,68,8,12,11,133
+4407	ID:104	>:1,104,8,9,8,96
+4407	ID:74	>:1,74,8,10,9,129
+4411	ID:10	>:1,10,8,15,14,88
+4411	ID:35	>:1,35,8,7,6,81
+4412	ID:36	>:1,36,8,13,12,114
+4412	ID:59	>:1,59,8,12,11,130
+4412	ID:94	>:1,94,8,12,11,121
+4419	ID:17	>:1,17,8,13,12,139
+4419	ID:36	>:1,36,8,14,13,114
+4422	ID:66	>:1,66,8,8,7,137
+4424	ID:69	>:1,69,8,8,7,127
+4424	ID:24	>:1,24,8,11,10,129
+4429	ID:23	>:1,23,8,9,8,111
+4430	ID:64	>:1,64,8,7,6,130
+4438	ID:99	>:1,99,8,7,6,102
+4445	ID:69	>:1,69,8,9,8,129
+4447	ID:42	>:1,42,8,6,5,100
+4452	ID:99	>:1,99,8,8,7,103
+4454	ID:32	>:1,32,8,9,8,89
+4455	ID:48	>:1,48,8,12,11,153
+4457	ID:76	>:1,76,8,10,9,107
+4459	ID:88	>:1,88,8,10,9,138
+4460	ID:32	>:1,32,8,10,9,90
+4462	ID:8	>:1,8,8,11,10,119
+4463	ID:19	>:1,19,8,5,4,111
+4467	ID:49	>:1,49,8,12,11,105
+4467	ID:42	>:1,42,8,7,6,102
+4468	ID:86	>:1,86,8,11,10,138
+4469	ID:40	>:1,40,8,13,12,123
+4470	ID:34	>:1,34,8,12,11,130
+4473	ID:52	>:1,52,8,5,4,88
+4476	ID:70	>:1,70,8,9,8,101
+4482	ID:11	>:1,11,8,11,10,132
+4484	ID:105	>:1,105,8,11,10,153
+4484	ID:19	>:1,19,8,6,5,113
+4485	ID:36	>:1,36,8,15,14,119
+4491	ID:55	>:1,55,8,17,16,113
+4494	ID:38	>:1,38,8,10,9,100
+4494	ID:18	>:1,18,8,6,5,114
+4495	ID:56	>:1,56,8,14,13,150
+4498	ID:38	>:1,38,8,11,10,100
+4507	ID:94	>:1,94,8,13,12,128
+4509	ID:5	>:1,5,8,5,4,152
+4512	ID:73	>:1,73,8,8,7,93
+4516	ID:54	>:1,54,8,10,9,155
+4519	ID:9	>:1,9,8,7,6,96
+4520	ID:74	>:1,74,8,11,10,136
+4520	ID:33	>:1,33,8,11,10,160
+4521	ID:10	>:1,10,8,16,15,95
+4524	ID:42	>:1,42,8,8,7,105
+4529	ID:46	>:1,46,8,14,13,121
+4531	ID:81	>:1,81,8,12,11,151
+4532	ID:20	>:1,20,8,10,9,95
+4536	ID:74	>:1,74,8,12,11,137
+4540	ID:37	>:1,37,8,10,9,134
+4541	ID:2	>:1,2,8,12,11,159
+4543	ID:103	>:1,103,8,7,6,137
+4547	ID:9	>:1,9,8,8,7,98
+4548	ID:18	>:1,18,8,7,6,119
+4548	ID:31	>:1,31,8,10,9,165
+4552	ID:18	>:1,18,8,8,7,119
+4553	ID:61	>:1,61,8,10,9,142
+4558	ID:6	>:1,6,8,9,8,166
+4558	ID:94	>:1,94,8,14,13,132
+4560	ID:93	>:1,93,8,14,13,128
+4563	ID:58	>:1,58,8,6,5,121
+4564	ID:37	>:1,37,8,11,10,136
+4564	ID:16	>:1,16,8,6,5,95
+4565	ID:36	>:1,36,8,16,15,125
+4566	ID:19	>:1,19,8,7,6,119
+4566	ID:71	>:1,71,8,11,10,168
+4569	ID:52	>:1,52,8,6,5,94
+4570	ID:53	>:1,53,8,5,4,106
+4570	ID:76	>:1,76,8,11,10,115
+4571	ID:87	>:1,87,8,15,14,164
+4575	ID:37	>:1,37,8,12,11,137
+4576	ID:30	>:1,30,8,6,5,112
+4579	ID:63	>:1,63,8,9,8,105
+4579	ID:91	>:1,91,8,9,8,164
+4583	ID:50	>:1,50,8,11,10,136
+4584	ID:93	>:1,93,8,15,14,130
+4585	ID:94	>:1,94,8,15,14,134
+4591	ID:56	>:1,56,8,15,14,157
+4597	ID:37	>:1,37,8,13,12,138
+4597	ID:99	>:1,99,8,9,8,113
+4605	ID:76	>:1,76,8,12,11,118
+4607	ID:88	>:1,88,8,11,10,149
+4608	ID:17	>:1,17,8,14,13,154
+4608	ID:40	>:1,40,8,14,13,134
+4609	ID:42	>:1,42,8,9,8,111
+4610	ID:47	>:1,47,8,18,17,164
+4613	ID:78	>:1,78,8,11,10,131
+4618	ID:36	>:1,36,8,17,16,128
+4622	ID:24	>:1,24,8,12,11,146
+4622	ID:26	>:1,26,8,11,10,134
+4626	ID:69	>:1,69,8,10,9,142
+4626	ID:31	>:1,31,8,11,10,172
+4627	ID:77	>:1,77,8,6,5,109
+4631	ID:77	>:1,77,8,7,6,109
+4637	ID:103	>:1,103,8,8,7,146
+4658	ID:88	>:1,88,8,12,11,154
+4661	ID:70	>:1,70,8,10,9,117
+4661	ID:5	>:1,5,8,6,5,162
+4661	ID:41	>:1,41,8,10,9,122
+4663	ID:67	>:1,67,8,6,5,102
+4663	ID:62	>:1,62,8,11,10,115
+4664	ID:84	>:1,84,8,11,10,105
+4669	ID:74	>:1,74,8,13,12,147
+4681	ID:34	>:1,34,8,13,12,148
+4683	ID:102	>:1,102,8,8,7,168
+4683	ID:30	>:1,30,8,7,6,120
+4684	ID:73	>:1,73,8,9,8,106
+4692	ID:79	>:1,79,8,9,8,110
+4695	ID:52	>:1,52,8,7,6,103
+4697	ID:44	>:1,44,8,8,7,147
+4698	ID:34	>:1,34,8,14,13,149
+4700	ID:40	>:1,40,8,15,14,141
+4706	ID:83	>:1,83,8,11,10,158
+4707	ID:26	>:1,26,8,12,11,140
+4710	ID:69	>:1,69,8,11,10,148
+4712	ID:5	>:1,5,8,7,6,166
+4712	ID:9	>:1,9,8,9,8,110
+4723	ID:1	>:1,1,8,12,11,183
+4728	ID:47	>:1,47,8,19,18,174
+4729	ID:79	>:1,79,8,10,9,113
+4732	ID:50	>:1,50,8,12,11,147
+4732	ID:95	>:1,95,8,12,11,138
+4735	ID:7	>:1,7,8,6,5,170
+4736	ID:5	>:1,5,8,8,7,168
+4738	ID:95	>:1,95,8,13,12,139
+4738	ID:74	>:1,74,8,14,13,152
+4741	ID:76	>:1,76,8,13,12,126
+4741	ID:1	>:1,1,8,13,12,185
+4742	ID:27	>:1,27,8,14,13,171
+4744	ID:26	>:1,26,8,13,12,143
+4747	ID:38	>:1,38,8,12,11,117
+4750	ID:2	>:1,2,8,13,12,176
+4750	ID:25	>:1,25,8,7,6,112
+4754	ID:72	>:1,72,8,12,11,156
+4755	ID:24	>:1,24,8,13,12,157
+4757	ID:59	>:1,59,8,13,12,158
+4758	ID:72	>:1,72,8,13,12,157
+4762	ID:58	>:1,58,8,7,6,136
+4762	ID:21	>:1,21,8,10,9,105
+4763	ID:97	>:1,97,8,14,13,136
+4763	ID:6	>:1,6,8,10,9,182
+4764	ID:20	>:1,20,8,11,10,113
+4764	ID:31	>:1,31,8,12,11,183
+4775	ID:9	>:1,9,8,10,9,114
+4776	ID:25	>:1,25,8,8,7,114
+4777	ID:62	>:1,62,8,12,11,122
+4780	ID:95	>:1,95,8,14,13,143
+4783	ID:34	>:1,34,8,15,14,156
+4789	ID:22	>:1,22,8,12,11,172
+4792	ID:58	>:1,58,8,8,7,138
+4799	ID:30	>:1,30,8,8,7,129
+4804	ID:14	>:1,14,8,8,7,150
+4806	ID:80	>:1,80,8,10,9,150
+4807	ID:10	>:1,10,8,17,16,116
+4807	ID:55	>:1,55,8,18,17,136
+4811	ID:42	>:1,42,8,10,9,127
+4811	ID:58	>:1,58,8,9,8,139
+4811	ID:44	>:1,44,8,9,8,155
+4814	ID:15	>:1,15,8,12,11,118
+4816	ID:75	>:1,75,8,10,9,123
+4827	ID:88	>:1,88,8,13,12,166
+4828	ID:61	>:1,61,8,11,10,164
+4830	ID:2	>:1,2,8,14,13,182
+4831	ID:65	>:1,65,8,13,12,136
+4833	ID:85	>:1,85,8,15,14,126
+4835	ID:48	>:1,48,8,13,12,182
+4840	ID:83	>:1,83,8,12,11,167
+4842	ID:20	>:1,20,8,12,11,118
+4849	ID:1	>:1,1,8,14,13,194
+4852	ID:53	>:1,53,8,6,5,127
+4855	ID:52	>:1,52,8,8,7,114
+4860	ID:45	>:1,45,8,7,6,125
+4861	ID:22	>:1,22,8,13,12,176
+4864	ID:67	>:1,67,8,7,6,117
+4870	ID:16	>:1,16,8,7,6,117
+4870	ID:61	>:1,61,8,12,11,167
+4873	ID:69	>:1,69,8,12,11,162
+4877	ID:11	>:1,11,8,12,11,162
+4877	ID:85	>:1,85,8,16,15,130
+4884	ID:20	>:1,20,8,13,12,122
+4892	ID:104	>:1,104,8,10,9,131
+4892	ID:28	>:1,28,8,15,14,155
+4892	ID:50	>:1,50,8,13,12,159
+4893	ID:67	>:1,67,8,8,7,119
+4894	ID:60	>:1,60,8,7,6,152
+4901	ID:65	>:1,65,8,14,13,140
+4905	ID:86	>:1,86,8,12,11,171
+4908	ID:60	>:1,60,8,8,7,153
+4910	ID:16	>:1,16,8,8,7,119
+4910	ID:42	>:1,42,8,11,10,134
+4911	ID:84	>:1,84,8,12,11,124
+4911	ID:37	>:1,37,8,14,13,164
+4912	ID:29	>:1,29,8,12,11,155
+4914	ID:58	>:1,58,8,10,9,147
+4921	ID:104	>:1,104,8,11,10,133
+4927	ID:72	>:1,72,8,14,13,169
+4933	ID:6	>:1,6,8,11,10,195
+4939	ID:42	>:1,42,8,12,11,137
+4940	ID:94	>:1,94,8,16,15,161
+4947	ID:75	>:1,75,8,11,10,132
+4948	ID:92	>:1,92,8,11,10,152
+4952	ID:54	>:1,54,8,11,10,189
+4959	ID:40	>:1,40,8,16,15,161
+4962	ID:78	>:1,78,8,12,11,158
+4964	ID:75	>:1,75,8,12,11,133
+4970	ID:58	>:1,58,8,11,10,151
+4971	ID:96	>:1,96,8,14,13,204
+4971	ID:20	>:1,20,8,14,13,127
+4976	ID:43	>:1,43,8,6,5,164
+4978	ID:92	>:1,92,8,12,11,154
+4980	ID:6	>:1,6,8,12,11,199
+4981	ID:9	>:1,9,8,11,10,130
+4983	ID:32	>:1,32,8,11,10,131
+4987	ID:75	>:1,75,8,13,12,135
+4988	ID:38	>:1,38,8,13,12,133
+4995	ID:9	>:1,9,8,12,11,132
+5002	ID:30	>:1,30,8,9,8,144
+5002	ID:99	>:1,99,8,10,9,143
+5007	ID:30	>:1,30,8,10,9,145
+5010	ID:63	>:1,63,8,10,9,139
+5016	ID:16	>:1,16,8,9,8,127
+5016	ID:31	>:1,31,8,13,12,205
+5031	ID:30	>:1,30,8,11,10,147
+5042	ID:69	>:1,69,8,13,12,174
+5048	ID:19	>:1,19,8,8,7,155
+5053	ID:15	>:1,15,8,13,12,136
+5054	ID:104	>:1,104,8,12,11,143
+5059	ID:105	>:1,105,8,12,11,201
+5067	ID:41	>:1,41,8,11,10,151
+5068	ID:88	>:1,88,8,14,13,185
+5070	ID:16	>:1,16,8,10,9,132
+5072	ID:39	>:1,39,8,8,7,174
+5072	ID:41	>:1,41,8,12,11,152
+5072	ID:51	>:1,51,8,11,10,143
+5077	ID:57	>:1,57,8,8,7,191
+5079	ID:39	>:1,39,8,9,8,175
+5090	ID:57	>:1,57,8,9,8,192
+5094	ID:92	>:1,92,8,13,12,164
+5102	ID:85	>:1,85,8,17,16,146
+5108	ID:80	>:1,80,8,11,10,175
+5112	ID:30	>:1,30,8,12,11,153
+5112	ID:42	>:1,42,8,13,12,150
+5115	ID:6	>:1,6,8,13,12,209
+5115	ID:99	>:1,99,8,11,10,153
+5116	ID:31	>:1,31,8,14,13,212
+5123	ID:7	>:1,7,8,7,6,199
+5125	ID:45	>:1,45,8,8,7,145
+5129	ID:73	>:1,73,8,10,9,140
+5130	ID:25	>:1,25,8,9,8,139
+5131	ID:7	>:1,7,8,8,7,200
+5131	ID:34	>:1,34,8,16,15,183
+5133	ID:56	>:1,56,8,16,15,199
+5136	ID:62	>:1,62,8,13,12,151
+5139	ID:102	>:1,102,8,9,8,204
+5141	ID:34	>:1,34,8,17,16,184
+5145	ID:2	>:1,2,8,15,14,206
+5157	ID:12	>:1,12,8,10,9,198
+5164	ID:64	>:1,64,8,8,7,187
+5167	ID:65	>:1,65,8,15,14,160
+5172	ID:8	>:1,8,8,12,11,172
+5176	ID:48	>:1,48,8,14,13,209
+5190	ID:20	>:1,20,8,15,14,143
+5192	ID:26	>:1,26,8,14,13,178
+5194	ID:2	>:1,2,8,16,15,208
+5194	ID:42	>:1,42,8,14,13,157
+5201	ID:94	>:1,94,8,17,16,180
+5202	ID:65	>:1,65,8,16,15,162
+5204	ID:17	>:1,17,8,15,14,197
+5206	ID:95	>:1,95,8,15,14,178
+5207	ID:19	>:1,19,8,9,8,167
+5214	ID:47	>:1,47,8,20,19,212
+5220	ID:26	>:1,26,8,15,14,181
+5221	ID:83	>:1,83,8,13,12,198
+5223	ID:70	>:1,70,8,11,10,160
+5223	ID:87	>:1,87,8,16,15,215
+5224	ID:69	>:1,69,8,14,13,189
+5224	ID:39	>:1,39,8,10,9,185
+5224	ID:40	>:1,40,8,17,16,183
+5227	ID:103	>:1,103,8,9,8,193
+5237	ID:103	>:1,103,8,10,9,194
+5239	ID:33	>:1,33,8,12,11,219
+5242	ID:40	>:1,40,8,18,17,184
+5244	ID:53	>:1,53,8,7,6,157
+5248	ID:93	>:1,93,8,16,15,180
+5248	ID:83	>:1,83,8,14,13,201
+5254	ID:82	>:1,82,8,9,8,170
+5257	ID:11	>:1,11,8,13,12,191
+5260	ID:54	>:1,54,8,12,11,214
+5265	ID:1	>:1,1,8,15,14,226
+5265	ID:53	>:1,53,8,8,7,159
+5267	ID:87	>:1,87,8,17,16,219
+5270	ID:93	>:1,93,8,17,16,182
+5273	ID:39	>:1,39,8,11,10,189
+5276	ID:47	>:1,47,8,21,20,217
+5281	ID:65	>:1,65,8,17,16,169
+5281	ID:42	>:1,42,8,15,14,165
+5282	ID:95	>:1,95,8,16,15,184
+5283	ID:61	>:1,61,8,13,12,197
+5284	ID:99	>:1,99,8,12,11,165
+5286	ID:85	>:1,85,8,18,17,161
+5289	ID:74	>:1,74,8,15,14,195
+5292	ID:38	>:1,38,8,14,13,158
+5304	ID:79	>:1,79,8,11,10,154
+5304	ID:82	>:1,82,8,10,9,174
+5306	ID:20	>:1,20,8,16,15,153
+5309	ID:85	>:1,85,8,19,18,163
+5311	ID:35	>:1,35,8,8,7,147
+5324	ID:88	>:1,88,8,15,14,206
+5325	ID:63	>:1,63,8,11,10,162
+5335	ID:27	>:1,27,8,15,14,220
+5337	ID:13	>:1,13,8,14,13,208
+5340	ID:30	>:1,30,8,13,12,173
+5364	ID:56	>:1,56,8,17,16,217
+5369	ID:42	>:1,42,8,16,15,172
+5369	ID:67	>:1,67,8,9,8,154
+5370	ID:70	>:1,70,8,12,11,172
+5370	ID:46	>:1,46,8,15,14,185
+5377	ID:51	>:1,51,8,12,11,167
+5383	ID:70	>:1,70,8,13,12,173
+5383	ID:29	>:1,29,8,13,12,191
+5383	ID:78	>:1,78,8,13,12,192
+5388	ID:74	>:1,74,8,16,15,204
+5396	ID:14	>:1,14,8,9,8,198
+5397	ID:74	>:1,74,8,17,16,205
+5405	ID:5	>:1,5,8,9,8,221
+5412	ID:21	>:1,21,8,11,10,155
+5415	ID:92	>:1,92,8,14,13,188
+5433	ID:59	>:1,59,8,14,13,213
+5436	ID:103	>:1,103,8,11,10,208
+5437	ID:58	>:1,58,8,12,11,188
+5437	ID:21	>:1,21,8,12,11,157
+5442	ID:85	>:1,85,8,20,19,173
+5471	ID:50	>:1,50,8,14,13,202
+5473	ID:78	>:1,78,8,14,13,200
+5476	ID:3	>:1,3,8,6,5,172
+5482	ID:8	>:1,8,8,13,12,198
+5487	ID:58	>:1,58,8,13,12,192
+5492	ID:79	>:1,79,8,12,11,167
+5499	ID:35	>:1,35,8,9,8,162
+5505	ID:72	>:1,72,8,15,14,214
+5505	ID:26	>:1,26,8,16,15,202
+5532	ID:29	>:1,29,8,14,13,204
+5534	ID:52	>:1,52,8,9,8,166
+5535	ID:18	>:1,18,8,9,8,192
+5535	ID:33	>:1,33,8,13,12,242
+5535	ID:42	>:1,42,8,17,16,185
+5535	ID:65	>:1,65,8,18,17,188
+5536	ID:25	>:1,25,8,10,9,169
+5539	ID:16	>:1,16,8,11,10,172
+5540	ID:83	>:1,83,8,15,14,223
+5545	ID:101	>:1,101,8,15,14,219
+5548	ID:69	>:1,69,8,15,14,214
+5556	ID:37	>:1,37,8,15,14,214
+5559	ID:19	>:1,19,8,10,9,195
+5563	ID:72	>:1,72,8,16,15,218
+5564	ID:90	>:1,90,8,9,8,208
+5571	ID:52	>:1,52,8,10,9,170
+5573	ID:73	>:1,73,8,11,10,176
+5584	ID:69	>:1,69,8,16,15,216
+5584	ID:28	>:1,28,8,16,15,210
+5586	ID:22	>:1,22,8,14,13,235
+5591	ID:47	>:1,47,8,22,21,243
+5595	ID:44	>:1,44,8,10,9,213
+5602	ID:91	>:1,91,8,10,9,247
+5604	ID:53	>:1,53,8,9,8,187
+5605	ID:39	>:1,39,8,12,11,215
+5608	ID:85	>:1,85,8,21,20,186
+5614	ID:3	>:1,3,8,7,6,183
+5615	ID:95	>:1,95,8,17,16,209
+5637	ID:63	>:1,63,8,12,11,186
+5637	ID:6	>:1,6,8,14,13,246
+5640	ID:8	>:1,8,8,14,13,209
+5650	ID:58	>:1,58,8,14,13,204
+5653	ID:72	>:1,72,8,17,16,225
+5658	ID:78	>:1,78,8,15,14,213
+5663	ID:30	>:1,30,8,14,13,198
+5670	ID:27	>:1,27,8,16,15,247
+5674	ID:42	>:1,42,8,18,17,196
+5674	ID:73	>:1,73,8,12,11,184
+5686	ID:58	>:1,58,8,15,14,208
+5686	ID:78	>:1,78,8,16,15,215
+5687	ID:54	>:1,54,8,13,12,248
+5689	ID:4	>:1,4,8,11,10,184
+5692	ID:40	>:1,40,8,19,18,221
+5699	ID:94	>:1,94,8,18,17,218
+5699	ID:85	>:1,85,8,22,21,194
+5703	ID:74	>:1,74,8,18,17,229
+5706	ID:48	>:1,48,8,15,14,251
+5714	ID:81	>:1,81,8,13,12,242
+5722	ID:78	>:1,78,8,17,16,217
+5722	ID:11	>:1,11,8,14,13,226
+5725	ID:28	>:1,28,8,17,16,222
+5725	ID:30	>:1,30,8,15,14,203
+5729	ID:26	>:1,26,8,17,16,219
+5735	ID:61	>:1,61,8,14,13,232
+5753	ID:5	>:1,5,8,10,9,249
+5755	ID:24	>:1,24,8,14,13,235
+5767	ID:62	>:1,62,8,14,13,203
+5769	ID:39	>:1,39,8,13,12,228
+5773	ID:15	>:1,15,8,14,13,192
+5774	ID:91	>:1,91,8,11,10,260
+5785	ID:14	>:1,14,8,10,9,230
+5786	ID:30	>:1,30,8,16,15,208
+5787	ID:5	>:1,5,8,11,10,252
+5798	ID:19	>:1,19,8,11,10,214
+5799	ID:10	>:1,10,8,18,17,194
+5800	ID:50	>:1,50,8,15,14,229
+5803	ID:96	>:1,96,8,15,14,272
+5805	ID:68	>:1,68,8,13,12,243
+5810	ID:83	>:1,83,8,16,15,244
+5816	ID:65	>:1,65,8,19,18,211
+5817	ID:26	>:1,26,8,18,17,226
+5828	ID:63	>:1,63,8,13,12,201
+5845	ID:85	>:1,85,8,23,22,205
+5846	ID:21	>:1,21,8,13,12,190
+5848	ID:9	>:1,9,8,13,12,202
+5850	ID:70	>:1,70,8,14,13,212
+5858	ID:87	>:1,87,8,18,17,264
+5859	ID:33	>:1,33,8,14,13,267
+5862	ID:42	>:1,42,8,19,18,211
+5862	ID:14	>:1,14,8,11,10,236
+5868	ID:15	>:1,15,8,15,14,200
+5868	ID:35	>:1,35,8,10,9,190
+5892	ID:10	>:1,10,8,19,18,201
+5903	ID:35	>:1,35,8,11,10,192
+5907	ID:67	>:1,67,8,10,9,198
+5908	ID:59	>:1,59,8,15,14,250
+5908	ID:42	>:1,42,8,20,19,214
+5910	ID:81	>:1,81,8,14,13,258
+5910	ID:30	>:1,30,8,17,16,216
+5916	ID:91	>:1,91,8,12,11,272
+5919	ID:97	>:1,97,8,15,14,225
+5920	ID:55	>:1,55,8,19,18,223
+5925	ID:84	>:1,84,8,13,12,198
+5937	ID:92	>:1,92,8,15,14,229
+5948	ID:33	>:1,33,8,15,14,276
+5948	ID:6	>:1,6,8,15,14,269
+5952	ID:50	>:1,50,8,16,15,240
+5956	ID:74	>:1,74,8,19,18,251
+5961	ID:88	>:1,88,8,16,15,256
+5969	ID:29	>:1,29,8,15,14,238
+5982	ID:49	>:1,49,8,13,12,226
+5982	ID:80	>:1,80,8,12,11,243
+5982	ID:62	>:1,62,8,15,14,219
+5984	ID:4	>:1,4,8,12,11,207
+5986	ID:25	>:1,25,8,11,10,203
+5991	ID:40	>:1,40,8,20,19,243
+5992	ID:92	>:1,92,8,16,15,233
+5993	ID:15	>:1,15,8,16,15,211
+5994	ID:70	>:1,70,8,15,14,224
+6001	ID:61	>:1,61,8,15,14,251
+6009	ID:58	>:1,58,8,16,15,231
+6016	ID:6	>:1,6,8,16,15,273
+6020	ID:88	>:1,88,8,17,16,261
+6023	ID:9	>:1,9,8,14,13,217
+6025	ID:38	>:1,38,8,15,14,216
+6031	ID:76	>:1,76,8,14,13,227
+6032	ID:3	>:1,3,8,8,7,216
+6040	ID:73	>:1,73,8,13,12,213
+6043	ID:10	>:1,10,8,20,19,214
+6051	ID:67	>:1,67,8,11,10,208
+6066	ID:67	>:1,67,8,12,11,209
+6082	ID:4	>:1,4,8,13,12,214
+6085	ID:44	>:1,44,8,11,10,252
+6091	ID:86	>:1,86,8,13,12,264
+6092	ID:6	>:1,6,8,17,16,280
+6097	ID:4	>:1,4,8,14,13,215
+6099	ID:79	>:1,79,8,13,12,213
+6102	ID:103	>:1,103,8,12,11,258
+6103	ID:37	>:1,37,8,16,15,257
+6115	ID:39	>:1,39,8,14,13,257
+6116	ID:86	>:1,86,8,14,13,266
+6121	ID:70	>:1,70,8,16,15,233
+6125	ID:33	>:1,33,8,16,15,290
+6142	ID:18	>:1,18,8,10,9,242
+6143	ID:39	>:1,39,8,15,14,259
+6146	ID:74	>:1,74,8,20,19,265
+6148	ID:27	>:1,27,8,17,16,286
+6149	ID:32	>:1,32,8,12,11,220
+6162	ID:24	>:1,24,8,15,14,266
+6164	ID:7	>:1,7,8,9,8,281
+6165	ID:38	>:1,38,8,16,15,227
+6168	ID:65	>:1,65,8,20,19,240
+6184	ID:38	>:1,38,8,17,16,229
+6188	ID:32	>:1,32,8,13,12,223
+6196	ID:33	>:1,33,8,17,16,295
+6201	ID:35	>:1,35,8,12,11,214
+6204	ID:61	>:1,61,8,16,15,267
+6217	ID:17	>:1,17,8,16,15,272
+6238	ID:43	>:1,43,8,7,6,262
+6239	ID:62	>:1,62,8,16,15,240
+6240	ID:93	>:1,93,8,18,17,259
+6243	ID:7	>:1,7,8,10,9,287
+6243	ID:91	>:1,91,8,13,12,300
+6262	ID:21	>:1,21,8,14,13,222
+6263	ID:25	>:1,25,8,12,11,225
+6267	ID:9	>:1,9,8,15,14,236
+6268	ID:37	>:1,37,8,17,16,270
+6281	ID:32	>:1,32,8,14,13,231
+6288	ID:85	>:1,85,8,24,23,237
+6292	ID:21	>:1,21,8,15,14,225
+6297	ID:26	>:1,26,8,19,18,263
+6300	ID:98	>:1,98,8,8,7,276
+6310	ID:10	>:1,10,8,21,20,235
+6310	ID:70	>:1,70,8,17,16,249
+6315	ID:48	>:1,48,8,16,15,298
+6331	ID:31	>:1,31,8,15,14,310
+6358	ID:80	>:1,80,8,13,12,273
+6360	ID:88	>:1,88,8,18,17,288
+6375	ID:97	>:1,97,8,16,15,263
+6380	ID:65	>:1,65,8,21,20,255
+6383	ID:73	>:1,73,8,14,13,239
+6383	ID:44	>:1,44,8,12,11,275
+6404	ID:84	>:1,84,8,14,13,235
+6408	ID:92	>:1,92,8,17,16,266
+6412	ID:4	>:1,4,8,15,14,239
+6423	ID:81	>:1,81,8,15,14,299
+6428	ID:103	>:1,103,8,13,12,284
+6428	ID:94	>:1,94,8,19,18,275
+6454	ID:45	>:1,45,8,9,8,248
+6460	ID:30	>:1,30,8,18,17,259
+6460	ID:28	>:1,28,8,18,17,279
+6461	ID:63	>:1,63,8,14,13,249
+6465	ID:7	>:1,7,8,11,10,305
+6467	ID:39	>:1,39,8,16,15,284
+6467	ID:76	>:1,76,8,15,14,262
+6473	ID:21	>:1,21,8,16,15,239
+6474	ID:95	>:1,95,8,18,17,275
+6482	ID:62	>:1,62,8,17,16,259
+6494	ID:61	>:1,61,8,17,16,290
+6495	ID:40	>:1,40,8,21,20,282
+6504	ID:51	>:1,51,8,13,12,261
+6506	ID:37	>:1,37,8,18,17,288
+6507	ID:42	>:1,42,8,21,20,260
+6508	ID:63	>:1,63,8,15,14,253
+6511	ID:67	>:1,67,8,13,12,245
+6512	ID:26	>:1,26,8,20,19,281
+6517	ID:52	>:1,52,8,11,10,241
+6525	ID:101	>:1,101,8,16,15,296
+6529	ID:62	>:1,62,8,18,17,263
+6534	ID:3	>:1,3,8,9,8,256
+6536	ID:24	>:1,24,8,16,15,296
+6546	ID:27	>:1,27,8,18,17,315
+6562	ID:81	>:1,81,8,16,15,312
+6574	ID:61	>:1,61,8,18,17,297
+6578	ID:87	>:1,87,8,19,18,320
+6579	ID:67	>:1,67,8,14,13,250
+6592	ID:72	>:1,72,8,18,17,300
+6593	ID:3	>:1,3,8,10,9,261
+6612	ID:34	>:1,34,8,18,17,296
+6623	ID:20	>:1,20,8,17,16,259
+6626	ID:40	>:1,40,8,22,21,293
+6632	ID:70	>:1,70,8,18,17,275
+6651	ID:50	>:1,50,8,17,16,296
+6655	ID:2	>:1,2,8,17,16,319
+6656	ID:34	>:1,34,8,19,18,300
+6690	ID:50	>:1,50,8,18,17,299
+6713	ID:54	>:1,54,8,14,13,328
+6714	ID:9	>:1,9,8,16,15,271
+6716	ID:75	>:1,75,8,14,13,270
+6720	ID:8	>:1,8,8,15,14,293
+6732	ID:3	>:1,3,8,11,10,273
+6732	ID:5	>:1,5,8,12,11,325
+6736	ID:61	>:1,61,8,19,18,310
+6737	ID:1	>:1,1,8,16,15,341
+6741	ID:35	>:1,35,8,13,12,258
+6746	ID:20	>:1,20,8,18,17,268
+6755	ID:92	>:1,92,8,18,17,294
+6760	ID:91	>:1,91,8,14,13,340
+6771	ID:61	>:1,61,8,20,19,314
+6771	ID:39	>:1,39,8,17,16,308
+6772	ID:6	>:1,6,8,18,17,334
+6780	ID:42	>:1,42,8,22,21,281
+6803	ID:10	>:1,10,8,22,21,271
+6803	ID:65	>:1,65,8,22,21,288
+6820	ID:50	>:1,50,8,19,18,310
+6838	ID:21	>:1,21,8,17,16,265
+6839	ID:31	>:1,31,8,16,15,350
+6841	ID:87	>:1,87,8,20,19,342
+6845	ID:22	>:1,22,8,15,14,334
+6847	ID:76	>:1,76,8,16,15,294
+6851	ID:101	>:1,101,8,17,16,321
+6857	ID:103	>:1,103,8,14,13,316
+6877	ID:3	>:1,3,8,12,11,283
+6921	ID:78	>:1,78,8,18,17,312
+6945	ID:70	>:1,70,8,19,18,301
+6979	ID:42	>:1,42,8,23,22,296
+6989	ID:45	>:1,45,8,10,9,289
+6993	ID:31	>:1,31,8,17,16,363
+7011	ID:81	>:1,81,8,17,16,348
+7017	ID:33	>:1,33,8,18,17,360
+7024	ID:43	>:1,43,8,8,7,324
+7040	ID:47	>:1,47,8,23,22,358
+7043	ID:20	>:1,20,8,19,18,292
+7060	ID:8	>:1,8,8,16,15,319
+7067	ID:78	>:1,78,8,19,18,324
+7074	ID:63	>:1,63,8,16,15,299
+7078	ID:11	>:1,11,8,15,14,337
+7081	ID:33	>:1,33,8,19,18,365
+7088	ID:65	>:1,65,8,23,22,311
+7089	ID:25	>:1,25,8,13,12,287
+7091	ID:5	>:1,5,8,13,12,352
+7094	ID:58	>:1,58,8,17,16,317
+7115	ID:49	>:1,49,8,14,13,313
+7121	ID:28	>:1,28,8,19,18,332
+7130	ID:24	>:1,24,8,17,16,343
+7161	ID:103	>:1,103,8,15,14,340
+7167	ID:104	>:1,104,8,13,12,315
+7168	ID:25	>:1,25,8,14,13,293
+7184	ID:72	>:1,72,8,19,18,346
+7188	ID:56	>:1,56,8,18,17,361
+7194	ID:45	>:1,45,8,11,10,305
+7198	ID:5	>:1,5,8,14,13,360
+7203	ID:78	>:1,78,8,20,19,333
+7217	ID:63	>:1,63,8,17,16,309
+7234	ID:30	>:1,30,8,19,18,318
+7276	ID:95	>:1,95,8,19,18,340
+7285	ID:80	>:1,80,8,14,13,347
+7302	ID:58	>:1,58,8,18,17,332
+7311	ID:96	>:1,96,8,16,15,389
+7318	ID:39	>:1,39,8,18,17,350
+7323	ID:40	>:1,40,8,23,22,349
+7323	ID:3	>:1,3,8,13,12,318
+7334	ID:78	>:1,78,8,21,20,344
+7337	ID:21	>:1,21,8,19,18,304
+7347	ID:92	>:1,92,8,19,18,339
+7376	ID:5	>:1,5,8,15,14,373
+7387	ID:65	>:1,65,8,24,23,333
+7392	ID:38	>:1,38,8,18,17,323
+7399	ID:42	>:1,42,8,24,23,329
+7399	ID:31	>:1,31,8,18,17,395
+7403	ID:78	>:1,78,8,22,21,349
+7413	ID:16	>:1,16,8,12,11,322
+7413	ID:52	>:1,52,8,12,11,313
+7442	ID:72	>:1,72,8,20,19,365
+7446	ID:33	>:1,33,8,20,19,391
+7447	ID:63	>:1,63,8,18,17,327
+7462	ID:2	>:1,2,8,18,17,379
+7470	ID:67	>:1,67,8,15,14,318
+7498	ID:3	>:1,3,8,14,13,331
+7532	ID:72	>:1,72,8,21,20,372
+7557	ID:3	>:1,3,8,15,14,336
+7558	ID:30	>:1,30,8,20,19,344
+7560	ID:85	>:1,85,8,25,24,339
+7570	ID:16	>:1,16,8,13,12,334
+7570	ID:9	>:1,9,8,17,16,338
+7587	ID:82	>:1,82,8,11,10,358
+7597	ID:76	>:1,76,8,17,16,353
+7676	ID:41	>:1,41,8,13,12,360
+7677	ID:45	>:1,45,8,12,11,343
+7677	ID:72	>:1,72,8,22,21,385
+7697	ID:40	>:1,40,8,24,23,376
+7703	ID:81	>:1,81,8,18,17,398
+7720	ID:9	>:1,9,8,18,17,351
+7721	ID:21	>:1,21,8,20,19,336
+7744	ID:10	>:1,10,8,23,22,346
+7760	ID:26	>:1,26,8,21,20,380
+7799	ID:51	>:1,51,8,14,13,362
+7808	ID:81	>:1,81,8,19,18,407
+7814	ID:31	>:1,31,8,19,18,432
+7822	ID:70	>:1,70,8,20,19,373
+7825	ID:83	>:1,83,8,17,16,402
+7826	ID:78	>:1,78,8,23,22,384
+7848	ID:48	>:1,48,8,17,16,423
+7856	ID:58	>:1,58,8,19,18,375
+7906	ID:53	>:1,53,8,10,9,362
+7915	ID:72	>:1,72,8,23,22,402
+7934	ID:16	>:1,16,8,14,13,363
+7973	ID:34	>:1,34,8,20,19,402
+7984	ID:74	>:1,74,8,21,20,402
+7988	ID:65	>:1,65,8,25,24,383
+7998	ID:93	>:1,93,8,19,18,397
+8006	ID:63	>:1,63,8,19,18,369
+8012	ID:28	>:1,28,8,20,19,402
+8014	ID:82	>:1,82,8,12,11,393
+8034	ID:92	>:1,92,8,20,19,393
+8133	ID:6	>:1,6,8,19,18,441
+8155	ID:91	>:1,91,8,15,14,454
+8156	ID:30	>:1,30,8,21,20,389
+8156	ID:68	>:1,68,8,14,13,427
+8160	ID:18	>:1,18,8,11,10,401
+8178	ID:2	>:1,2,8,19,18,440
+8200	ID:76	>:1,76,8,18,17,400
+8206	ID:67	>:1,67,8,16,15,377
+8246	ID:62	>:1,62,8,19,18,400
+8263	ID:28	>:1,28,8,21,20,423
+8274	ID:25	>:1,25,8,15,14,377
+8299	ID:89	>:1,89,8,10,9,466
+8303	ID:41	>:1,41,8,14,13,409
+8306	ID:44	>:1,44,8,13,12,425
+8318	ID:39	>:1,39,8,19,18,432
+8324	ID:18	>:1,18,8,12,11,415
+8357	ID:69	>:1,69,8,17,16,440
+8389	ID:15	>:1,15,8,17,16,395
+8394	ID:40	>:1,40,8,25,24,431
+8409	ID:31	>:1,31,8,20,19,480
+8412	ID:5	>:1,5,8,16,15,459
+8416	ID:40	>:1,40,8,26,25,433
+8437	ID:16	>:1,16,8,15,14,399
+8456	ID:88	>:1,88,8,19,18,458
+8491	ID:39	>:1,39,8,20,19,448
+8496	ID:78	>:1,78,8,24,23,438
+8523	ID:10	>:1,10,8,24,23,408
+8594	ID:20	>:1,20,8,20,19,419
+8668	ID:33	>:1,33,8,21,20,495
+8669	ID:58	>:1,58,8,20,19,440
+8698	ID:85	>:1,85,8,26,25,427
+8749	ID:65	>:1,65,8,26,25,445
+8756	ID:50	>:1,50,8,20,19,464
+8758	ID:19	>:1,19,8,12,11,447
+8800	ID:93	>:1,93,8,20,19,460
+8809	ID:25	>:1,25,8,16,15,421
+8822	ID:92	>:1,92,8,21,20,458
+8825	ID:24	>:1,24,8,18,17,481
+8839	ID:88	>:1,88,8,20,19,490
+8878	ID:20	>:1,20,8,21,20,445
+8905	ID:95	>:1,95,8,20,19,476
+8926	ID:9	>:1,9,8,19,18,447
+8937	ID:80	>:1,80,8,15,14,483
+8971	ID:24	>:1,24,8,19,18,494
+8977	ID:18	>:1,18,8,13,12,469
+8990	ID:3	>:1,3,8,16,15,453
+9001	ID:62	>:1,62,8,20,19,460
+9014	ID:83	>:1,83,8,18,17,502
+9042	ID:58	>:1,58,8,21,20,471
+9055	ID:3	>:1,3,8,17,16,458
+9062	ID:61	>:1,61,8,21,20,498
+9106	ID:102	>:1,102,8,10,9,520
+9119	ID:38	>:1,38,8,19,18,464
+9152	ID:17	>:1,17,8,17,16,509
+9162	ID:42	>:1,42,8,25,24,471
+9185	ID:16	>:1,16,8,16,15,464
+9267	ID:86	>:1,86,8,15,14,515
+9311	ID:88	>:1,88,8,21,20,531
+9317	ID:15	>:1,15,8,18,17,471
+9421	ID:70	>:1,70,8,21,20,503
+9444	ID:76	>:1,76,8,19,18,503
+9505	ID:6	>:1,6,8,20,19,554
+9519	ID:3	>:1,3,8,18,17,497
+9520	ID:18	>:1,18,8,14,13,513
+9591	ID:24	>:1,24,8,20,19,544
+9593	ID:59	>:1,59,8,16,15,542
+9612	ID:44	>:1,44,8,14,13,538
+9615	ID:74	>:1,74,8,22,21,541
+9683	ID:12	>:1,12,8,11,10,561
+9696	ID:9	>:1,9,8,20,19,513
+9707	ID:28	>:1,28,8,22,21,545
+9733	ID:61	>:1,61,8,22,21,555
+9768	ID:24	>:1,24,8,21,20,559
+9786	ID:15	>:1,15,8,19,18,507
+9803	ID:78	>:1,78,8,25,24,548
+9833	ID:68	>:1,68,8,15,14,569
+9858	ID:99	>:1,99,8,13,12,532
+9890	ID:8	>:1,8,8,17,16,557
+9992	ID:39	>:1,39,8,21,20,570
+10055	ID:44	>:1,44,8,15,14,575
+10102	ID:38	>:1,38,8,20,19,548
+10257	ID:95	>:1,95,8,21,20,590
+10268	ID:95	>:1,95,8,22,21,591
+10328	ID:65	>:1,65,8,27,26,569
+10434	ID:18	>:1,18,8,15,14,589
+10443	ID:80	>:1,80,8,16,14,603
+10468	ID:28	>:1,28,8,23,22,606
+10485	ID:81	>:1,81,8,20,19,630
+10518	ID:71	>:1,71,8,12,11,647
+10559	ID:21	>:1,21,8,21,20,567
+10571	ID:46	>:1,46,8,16,15,605
+10595	ID:19	>:1,19,8,13,12,594
+10626	ID:81	>:1,81,8,21,20,642
+10656	ID:63	>:1,63,8,20,19,594
+10713	ID:3	>:1,3,8,19,18,598
+10717	ID:35	>:1,35,8,14,13,579
+10873	ID:24	>:1,24,8,22,21,647
+10936	ID:29	>:1,29,8,16,15,642
+11038	ID:44	>:1,44,8,16,15,656
+11157	ID:81	>:1,81,8,22,21,685
+11240	ID:5	>:1,5,8,17,16,697
+11258	ID:4	>:1,4,8,16,15,639
+11330	ID:65	>:1,65,8,28,27,650
+11359	ID:39	>:1,39,8,22,21,684
+11472	ID:39	>:1,39,8,23,22,694
+11601	ID:9	>:1,9,8,21,20,671
+11696	ID:36	>:1,36,8,18,17,692
+11834	ID:49	>:1,49,8,15,14,708
+11991	ID:63	>:1,63,8,21,20,703
+12120	ID:27	>:1,27,8,19,18,779
+12407	ID:25	>:1,25,8,17,16,725
+12436	ID:72	>:1,72,8,24,23,782
+12762	ID:104	>:1,104,8,14,13,774
+12845	ID:34	>:1,34,8,21,20,810
+13099	ID:3	>:1,3,8,20,19,795
+13122	ID:91	>:1,91,8,16,15,871
+13123	ID:105	>:1,105,8,13,12,872
+13127	ID:8	>:1,8,8,18,17,826
+13253	ID:97	>:1,97,8,17,16,827
+13370	ID:17	>:1,17,8,18,17,863
+13376	ID:81	>:1,81,8,23,22,874
+13408	ID:3	>:1,3,8,21,20,822
+13785	ID:32	>:1,32,8,15,14,846
+13986	ID:44	>:1,44,8,17,16,897
+14230	ID:38	>:1,38,8,21,20,892
+14415	ID:73	>:1,73,8,15,14,906
+14416	ID:96	>:1,96,8,17,16,980
+14474	ID:63	>:1,63,8,22,21,907
+14597	ID:92	>:1,92,8,22,21,936
+14709	ID:18	>:1,18,8,16,15,944
+14934	ID:17	>:1,17,8,19,18,993
+14935	ID:91	>:1,91,8,17,16,1021
+14990	ID:25	>:1,25,8,18,17,937
+15571	ID:30	>:1,30,8,22,21,1003
